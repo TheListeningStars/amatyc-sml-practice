@@ -1,0 +1,300 @@
+{
+ "id": "2003-spring",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "logarithms-exponents"
+   ],
+   "statement": "If $\\log_b 12 = 2.5$, which of the following is closest to $b$?",
+   "choices": [
+    "$2.5$",
+    "$2.7$",
+    "$3.0$",
+    "$3.2$",
+    "$3.4$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "coordinate-geometry",
+    "algebra"
+   ],
+   "statement": "If the ordered pair $(200, 3)$ is a solution to the equation $ax + by = c$, which of the following must be a solution to the equation $bx - ay = c$?",
+   "choices": [
+    "$(3, -200)$",
+    "$(-3, 200)$",
+    "$(3, 200)$",
+    "$(200, -3)$",
+    "$(-200, 3)$"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "complex-numbers"
+   ],
+   "statement": "If $i = \\sqrt{-1}$, what is $i^{-321}$ ?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$-1$",
+    "$i$",
+    "$-i$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "In triangle $SML$, $m\\angle S = 30^\\circ$ and $m\\angle M = 40^\\circ$. If $P$ is chosen on side $SM$ so that segment $LP$ bisects $\\angle SLM$, what is $m\\angle SPL$?",
+   "choices": [
+    "$70^\\circ$",
+    "$85^\\circ$",
+    "$90^\\circ$",
+    "$95^\\circ$",
+    "$110^\\circ$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "Square $MATH$ is placed with vertices $A$ and $T$ on a circle of diameter 20 so that the midpoint of side $MH$ is the circle's center. The area of the square is",
+   "choices": [
+    "$40$",
+    "$60$",
+    "$80$",
+    "$90$",
+    "$100$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "number-theory",
+    "word-problems"
+   ],
+   "statement": "Using any number of 7 g and 11 g weights and a balance scale (2 pans joined by an arm), what is the least number of weights needed to balance a 1 g object?",
+   "choices": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "functions",
+    "algebra"
+   ],
+   "statement": "Let $P(x + 2) = 3x + 1$. What value of $x$ satisfies the equation $P(x + 3) = 13$?",
+   "choices": [
+    "$3$",
+    "$5$",
+    "$40$",
+    "$16$",
+    "$15$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "algebra",
+    "polynomials"
+   ],
+   "statement": "How many real solutions does the equation $\\sqrt{x^3 - x^2 - x + 2} = x$ have?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "6"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "logic",
+    "number-theory"
+   ],
+   "statement": "The consecutive integers from 5 to 13 are placed in a $3 \\times 3$ grid, one per square, so that each row, column, and long diagonal sums to the same value. If 6 is in the lower left square and 5 is in the middle right square as shown, what number is in the bottom middle square (the asterisk)?",
+   "choices": [
+    "$7$",
+    "$8$",
+    "$9$",
+    "$10$",
+    "$11$"
+   ],
+   "figure": {
+    "page": 1,
+    "box": [
+     0.775,
+     0.505,
+     0.895,
+     0.595
+    ]
+   }
+  },
+  {
+   "n": 10,
+   "topics": [
+    "number-theory",
+    "word-problems"
+   ],
+   "statement": "Reverse my age, divide by three, add twenty, and my age you'll see. How old am I? Write your numerical answer in the corresponding space on the answer sheet.",
+   "choices": null
+  },
+  {
+   "n": 11,
+   "topics": [
+    "sequences-series"
+   ],
+   "statement": "Let $a_n = \\sum_{k=1}^{n} k(-1)^k$. What is $a_{2003}$ ?",
+   "choices": [
+    "$1001$",
+    "$-1001$",
+    "$1002$",
+    "$-1002$",
+    "$1003$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "functions",
+    "coordinate-geometry"
+   ],
+   "statement": "A parabola with vertical axis is shifted 1 unit right and 1 unit up so that it intersects the original parabola at the point $(1, 3)$. What is the $y$-intercept of the original parabola?",
+   "choices": [
+    "$2$",
+    "$-2$",
+    "$3$",
+    "$-3$",
+    "$4$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "geometry",
+    "trigonometry"
+   ],
+   "statement": "A circle of radius 4 lies in the interior of a $60^\\circ$ angle so that it is tangent to both sides of the angle. If a smaller circle is tangent to both sides of the angle and to the larger circle, what is its radius?",
+   "choices": [
+    "$1$",
+    "$\\frac{3}{2}$",
+    "$2$",
+    "$\\frac{4}{3}$",
+    "$\\frac{5}{3}$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "functions",
+    "algebra"
+   ],
+   "statement": "If $f(x) = ax + b$ ($a$ and $b$ integers) and $f(f(x)) = 4x + 5$, then $f(2) =$",
+   "choices": [
+    "$-9$",
+    "$-7$",
+    "$0$",
+    "$1$",
+    "$3$"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "coordinate-geometry",
+    "functions"
+   ],
+   "statement": "Let $R$ be the region in the plane consisting of all points $(x, y)$ such that $|x - y| + |x| + |y| \\le 50$. The area of $R$ is",
+   "choices": [
+    "$625$",
+    "$1250$",
+    "$1875$",
+    "$2500$",
+    "infinite"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "sequences-series",
+    "geometry"
+   ],
+   "statement": "The side lengths, semiperimeter (half the perimeter), and the area of a triangle form consecutive terms of an arithmetic sequence. What is the perimeter?",
+   "choices": [
+    "$5/13$",
+    "$19/2$",
+    "$14$",
+    "$49/3$",
+    "$23$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "A positive integer is called “strange” if its prime factorization consists of exactly two factors, of which exactly one is less than 10. For example, $26 = (2)(13)$ is strange, but $35 = (3)(7)$, $66 = 2(3)(11)$, and $143 = (11)(13)$ are not. Let $A$, $A+1$, and $A+2$ be the three smallest consecutive positive integers such that all three are strange. What is the larger prime factor of $A$ ?",
+   "choices": [
+    "$13$",
+    "$17$",
+    "$19$",
+    "$29$",
+    "$31$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "sequences-series",
+    "number-theory"
+   ],
+   "statement": "Three distinct integers whose sum is 42 form a geometric sequence with common ratio an integer. How many such sequences are there?",
+   "choices": [
+    "1",
+    "3",
+    "5",
+    "6",
+    "8"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "trigonometry"
+   ],
+   "statement": "Suppose $x$ and $y$ are acute angles with $\\cos x = \\tan y$ and $\\cos y = \\tan x$. What is the value of $(\\sin x)^2 + \\sin x$ ?",
+   "choices": [
+    "$\\frac{1}{2}$",
+    "$\\frac{-1 + \\sqrt{5}}{2}$",
+    "$\\frac{1 + \\sqrt{5}}{2}$",
+    "$\\frac{3}{4}$",
+    "$1$"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A piece of a 10-inch diameter pie is made by cutting 2 inches straight from the edge (not necessarily toward the center), then making a right angle and cutting straight back to the edge. If the second cut is 6 inches long, what is the area in square inches of the piece (to the nearest tenth)?",
+   "choices": [
+    "$10.1$",
+    "$10.3$",
+    "$10.5$",
+    "$10.7$",
+    "$10.9$"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "source": "AMATYC official answer key",
+ "answers": {
+  "1": [
+   "A"
+  ],
+  "2": [
+   "C"
+  ],
+  "3": [
+   "CTAYAM"
+  ],
+  "4": [
+   "C"
+  ],
+  "5": [
+   "C"
+  ],
+  "6": [
+   "B"
+  ],
+  "7": [
+   "64"
+  ],
+  "8": [
+   "B"
+  ],
+  "9": [
+   "B"
+  ],
+  "10": [
+   "D"
+  ],
+  "11": [
+   "E"
+  ],
+  "12": [
+   "D"
+  ],
+  "13": [
+   "D"
+  ],
+  "14": [
+   "A"
+  ],
+  "15": [
+   "D"
+  ],
+  "16": [
+   "E"
+  ],
+  "17": [
+   "E"
+  ],
+  "18": [
+   "D"
+  ],
+  "19": [
+   "B"
+  ],
+  "20": [
+   "B"
+  ]
+ },
+ "notes": {
+  "3": "Key prints the sequence CTAYAM (free response)",
+  "7": "Key prints 64 (free response)",
+  "1": "Conflict: the official key sheet (key-1) lists A for #1; the answers page at the end of the exam PDF lists C. A recorded (official key sheet)."
+ }
+}

@@ -1,0 +1,293 @@
+{
+ "id": "2002-spring",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "Which of the following linear equations shares a solution with the quadratic equation $x^2-15x-54=0$?",
+   "choices": [
+    "$6x+15=3x-3$",
+    "$6x-15=3x+3$",
+    "$6x+15=5x-3$",
+    "$6x-15=4x+3$",
+    "$6x+15=2x+3$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "geometry",
+    "algebra"
+   ],
+   "statement": "The supplement of a nonzero angle is $k$ times the angle's complement. If $k$ is a positive integer, what is its smallest possible value?",
+   "choices": [
+    "$2$",
+    "$3$",
+    "$4$",
+    "$5$",
+    "$6$"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "In quadrilateral $PQRS$, $PS=PQ=1$, $\\angle S=\\angle Q=90^\\circ$, and $PR=2$. Find $SQ$.",
+   "choices": [
+    "$\\frac{\\sqrt{2}}{2}$",
+    "$\\frac{\\sqrt{3}}{2}$",
+    "$\\sqrt{2}$",
+    "$\\sqrt{3}$",
+    "$2$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "logarithms-exponents"
+   ],
+   "statement": "Which of the following is closest to $\\log_{16} 0.002$ ?",
+   "choices": [
+    "$-0.5$",
+    "$-1.0$",
+    "$-1.5$",
+    "$-2.0$",
+    "$-2.5$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "geometry",
+    "trigonometry"
+   ],
+   "statement": "Two highways, one 50 ft wide, the other 60 ft wide, meet at a $60^\\circ$ angle. Which of the following is closest to the area in sq ft of the intersection they form?",
+   "choices": [
+    "$2600$",
+    "$2800$",
+    "$3000$",
+    "$3200$",
+    "$3400$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "A puppy and two kittens weigh a total of 12 lb. The puppy and larger kitten weigh exactly twice the smaller kitten. The puppy and smaller kitten weigh exactly the same as the larger kitten. What is the puppy's weight?",
+   "choices": [
+    "2 lb",
+    "3 lb",
+    "4 lb",
+    "5 lb",
+    "6 lb"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "Four numbers have a sum of 45. If 2 is added to the first, subtracted from the second, multiplied by the third and divided into the fourth, the results are equal. Find the product of the four numbers.",
+   "choices": [
+    "$9200$",
+    "$9600$",
+    "$10000$",
+    "$12000$",
+    "$14400$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "A palindrome is a word or numeral which reads the same forwards and backwards, such as RADAR, A, 5, 88, or the current year 2002. How many of 2002's positive integer factors besides itself are palindromes?",
+   "choices": [
+    "$4$",
+    "$5$",
+    "$6$",
+    "$7$",
+    "$8$"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A small circle of radius $a$ lies completely inside a larger circle of radius $b$ without touching. The distance between the centers is $d$. What is the length of the shortest line segment joining a point on the smaller circle to a point on the larger circle?",
+   "choices": [
+    "$b-a$",
+    "$b-d-a$",
+    "$b-d-2a$",
+    "$\\frac{a+b}{2}$",
+    "$\\frac{b-a}{2}$"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "logarithms-exponents"
+   ],
+   "statement": "What is the smallest element of the set $\\{2^{3000}3^{1000},\\ 2^{2000}7^{1000},\\ 2^{5000},\\ 3^{3000},\\ 5^{2000}\\}$?",
+   "choices": [
+    "$2^{3000}3^{1000}$",
+    "$2^{2000}7^{1000}$",
+    "$2^{5000}$",
+    "$3^{3000}$",
+    "$5^{2000}$"
+   ],
+   "note": "Exponents in the first two set elements are printed small and run together in the scan; read as 2^3000 3^1000 and 2^2000 7^1000 (consistent with the key's 24^1000 and 28^1000). Choice E is partly clipped in the scan; read as 5^2000 (matches the set)."
+  },
+  {
+   "n": 11,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "What is the smallest positive integer $n$ for which $n!$ terminates in exactly 88 zeros?",
+   "choices": [
+    "$350$",
+    "$354$",
+    "$360$",
+    "$370$",
+    "$440$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "One day a store brought in \\$4400 by selling 60 items of clothing consisting of pants for \\$30, jackets for \\$80, and suits for \\$120. What is the largest number of suits the store could have sold?",
+   "choices": [
+    "$25$",
+    "$28$",
+    "$29$",
+    "$30$",
+    "$36$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "trigonometry"
+   ],
+   "statement": "How many solutions does the equation $\\cos 3x \\cos x=\\sin 3x \\sin x$ have in the interval $[-8\\pi,8\\pi]$ ?",
+   "choices": [
+    "$0$",
+    "$16$",
+    "$64$",
+    "$256$",
+    "an infinite number"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "geometry",
+    "algebra"
+   ],
+   "statement": "A right triangle has perimeter $K$ units, area $K$ square units and one leg of length $\\sqrt{K}$ units, with $K \\ne 0$. The value of $K$ in simplest radical form can be written as $a+b\\sqrt{c}$, with $a$, $b$, $c$ positive integers. Find $a+b+c$.",
+   "choices": [
+    "$20$",
+    "$22$",
+    "$24$",
+    "$25$",
+    "$30$"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "What is the largest prime factor of the smallest number which is divisible by 7 and yields a remainder of 1 when divided by 2, 3, 4, 5, and 6?",
+   "choices": [
+    "$11$",
+    "$19$",
+    "$37$",
+    "$43$",
+    "$61$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "For how many sequences of three decimal digits is each digit at least as large as the preceding digit?",
+   "choices": [
+    "$120$",
+    "$130$",
+    "$200$",
+    "$210$",
+    "$220$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "logic",
+    "number-theory"
+   ],
+   "statement": "Let each letter in the equation $AMA-TYC=B$ represent a digit from 0 to 9, with different letters representing different digits, so that the left side of the equation represents the difference of two three-digit numbers. In how many ways can the letters be replaced to produce a true equation?",
+   "choices": [
+    "$5$",
+    "$10$",
+    "$12$",
+    "$13$",
+    "$15$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "In rectangle $CDEF$, $CD=32$ and $DE=24$, and in rectangle $DFGH$, $FG=12$. The area of the region inside both rectangles at once is",
+   "choices": [
+    "$150$",
+    "$330$",
+    "$438$",
+    "$480$",
+    "$630$"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "geometry",
+    "word-problems"
+   ],
+   "statement": "Two 20-foot lengths of fence cross at their midpoints at a $90^\\circ$ angle to form an X. A goat is tied to one end of one fence with a 20-ft rope. What is the area to the nearest 10 square feet that the goat can reach if it can go around the fences but not over or under them?",
+   "choices": [
+    "$1020$",
+    "$1120$",
+    "$1150$",
+    "$1200$",
+    "$1220$"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "probability"
+   ],
+   "statement": "A box holds 9 identical balls labeled 1 through 9. A ball is drawn at random from the box, returned to the box, and then a second ball is drawn at random. For what value of $k$ will the events “the sum of the two numbers is $k$” and “the two numbers are different” be independent?",
+   "choices": [
+    "$6$",
+    "$7$",
+    "$8$",
+    "$9$",
+    "$10$"
+   ]
+  }
+ ]
+}

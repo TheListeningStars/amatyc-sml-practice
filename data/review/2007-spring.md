@@ -1,0 +1,2 @@
+- #11: removed the reviewer note about the unrendered inequality symbol. The re-rendered image clearly shows "|k| <= 1", so the existing `\le` is confirmed correct.
+- Everything else (all 20 statements, choices, key) verified against exam-1/2 and key-1: no other changes.

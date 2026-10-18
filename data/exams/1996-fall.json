@@ -1,0 +1,325 @@
+{
+ "id": "1996-fall",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "geometry",
+    "trigonometry"
+   ],
+   "statement": "What is the ratio of the circumference of a circle to the perimeter of an inscribed square?",
+   "choices": [
+    "$\\dfrac{\\pi\\sqrt{2}}{3}$",
+    "$\\dfrac{\\pi\\sqrt{2}}{4}$",
+    "$\\dfrac{\\pi}{2}$",
+    "$\\dfrac{\\pi}{3}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "functions",
+    "trigonometry"
+   ],
+   "statement": "If $-200 < t < -100$, which of the following has the greatest value?",
+   "choices": [
+    "$\\sqrt{-t}$",
+    "$-\\sqrt[3]{t}$",
+    "$-\\sin^{-1}(\\sin t)$",
+    "$t^3$",
+    "$\\dfrac{9t-1}{t}$"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "logarithms-exponents",
+    "functions"
+   ],
+   "statement": "What is the domain of the identity $\\log(x+3) + \\log(x-1) = \\log(x^2+2x-3)$?",
+   "choices": [
+    "$(-3,1)$",
+    "$(-\\infty,\\infty)$",
+    "$(-3,\\infty)$",
+    "$(-\\infty,-3)\\cup(1,\\infty)$",
+    "$(1,\\infty)$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "number-theory",
+    "combinatorics"
+   ],
+   "statement": "The number of positive integers less than 1000 divisible by neither 5 nor 7 is",
+   "choices": [
+    "$630$",
+    "$658$",
+    "$686$",
+    "$688$",
+    "$690$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "word-problems",
+    "probability"
+   ],
+   "statement": "Going into the last game of the season, a basketball team had averaged 83.8 points per game. In their last game, they scored 97 points, raising their season average to 84.2 points per game. How many games did they play?",
+   "choices": [
+    "$27$",
+    "$31$",
+    "$32$",
+    "$33$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "functions",
+    "coordinate-geometry"
+   ],
+   "statement": "For how many values of $k$ does the graph of $y = 3x^2 + kx + 7$ have its vertex on the $x$-axis?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$2$",
+    "$4$",
+    "infinitely many"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "logic"
+   ],
+   "statement": "What is the negation of “Every good boy does fine”?",
+   "choices": [
+    "Some good boys do fine.",
+    "Those who do not do fine are not good boys.",
+    "Some who do fine are not good boys.",
+    "There is a good boy who does not do fine.",
+    "Everyone who does fine is a good boy."
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "functions"
+   ],
+   "statement": "Questions 8-10 refer to the functions $f$ and $g$, whose graphs are shown below and whose common domain is $[-6,6]$.\n\nThe (approximate) value of $f(g(2))$ is",
+   "choices": [
+    "$-0.9$",
+    "$-2.0$",
+    "$0.0$",
+    "$0.5$",
+    "$1.7$"
+   ],
+   "figure": {
+    "page": 1,
+    "box": [
+     0.19,
+     0.575,
+     0.785,
+     0.805
+    ]
+   }
+  },
+  {
+   "n": 9,
+   "topics": [
+    "functions",
+    "algebra"
+   ],
+   "statement": "Questions 8-10 refer to the functions $f$ and $g$, whose graphs are shown below and whose common domain is $[-6,6]$.\n\nHow many solutions does the equation $f(x) + g(x) = 0$ have?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$2$",
+    "$3$",
+    "more than $3$"
+   ],
+   "figure": {
+    "page": 1,
+    "box": [
+     0.19,
+     0.575,
+     0.785,
+     0.805
+    ]
+   }
+  },
+  {
+   "n": 10,
+   "topics": [
+    "functions"
+   ],
+   "statement": "Questions 8-10 refer to the functions $f$ and $g$, whose graphs are shown below and whose common domain is $[-6,6]$.\n\nThe range of $f(g(x))$ is (approximately)",
+   "choices": [
+    "$[0,1]$",
+    "$[0,2]$",
+    "$[-4,2]$",
+    "$[0,5]$",
+    "$[-4,5]$"
+   ],
+   "figure": {
+    "page": 1,
+    "box": [
+     0.19,
+     0.575,
+     0.785,
+     0.805
+    ]
+   }
+  },
+  {
+   "n": 11,
+   "topics": [
+    "trigonometry",
+    "algebra"
+   ],
+   "statement": "Given $\\sin A = M$, $\\cos T = Y$, $M + Y = C$, $A + T = \\dfrac{\\pi}{2}$, $A + 4M = \\dfrac{3\\pi}{2}$, find $A + M + A + T + Y + C$.",
+   "choices": [
+    "$0$",
+    "$\\dfrac{\\pi}{2}$",
+    "$\\pi$",
+    "$2\\pi$",
+    "$4\\pi$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "Which of these numbers is the greatest? (The subscript indicates the base.)",
+   "choices": [
+    "$0.10_{\\text{two}}$",
+    "$0.12_{\\text{three}}$",
+    "$0.21_{\\text{five}}$",
+    "$0.42_{\\text{nine}}$",
+    "$0.53_{\\text{twelve}}$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "probability",
+    "combinatorics"
+   ],
+   "statement": "Approximately what percentage of all families with four children have an equal gender split (two boys and two girls)?",
+   "choices": [
+    "$33.3\\%$",
+    "$37.5\\%$",
+    "$50.0\\%$",
+    "$62.5\\%$",
+    "$66.7\\%$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "polynomials",
+    "algebra"
+   ],
+   "statement": "How many real numbers are there such that the 5th power of the number is the sum of the 4th and 3rd powers of the number?",
+   "choices": [
+    "$1$",
+    "$2$",
+    "$3$",
+    "$5$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "logarithms-exponents",
+    "algebra"
+   ],
+   "statement": "Given $2^x = 8^{y+1}$ and $9^y = 3^{x-9}$, then the value of $x + y$ is",
+   "choices": [
+    "$9$",
+    "$18$",
+    "$24$",
+    "$27$",
+    "$30$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "geometry",
+    "combinatorics"
+   ],
+   "statement": "How many of the following could be the intersection of a plane and the surface of a cube: empty set, line segment, triangle, quadrilateral, pentagon, hexagon?",
+   "choices": [
+    "$2$",
+    "$3$",
+    "$4$",
+    "$5$",
+    "$6$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "If $x$ and $y$ are two real numbers such that $xy$, $\\dfrac{x}{y}$, and $x - y$ are all equal, then $x + y =$",
+   "choices": [
+    "$-\\dfrac{3}{2}$",
+    "$-\\dfrac{1}{2}$",
+    "$0$",
+    "$\\dfrac{1}{2}$",
+    "$\\dfrac{3}{2}$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "A circle has center $(6,7)$. Find the area of the triangle formed by the coordinate axes and the tangent line to the circle at the point $(2,5)$ on the circle.",
+   "choices": [
+    "$\\dfrac{121}{6}$",
+    "$\\dfrac{81}{4}$",
+    "$\\dfrac{169}{8}$",
+    "$\\dfrac{49}{2}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "word-problems"
+   ],
+   "statement": "Two hikers are $\\dfrac{3}{5}$ of the way through a mile-long tunnel when they hear a train approaching from ahead. In a panic, they take off running, but in opposite directions. One heads for the near end of the tunnel, averaging 13 mph, while the other heads back to the far end, averaging 11 mph. The train, traveling at a constant speed, roars by each hiker just as he or she escapes from the tunnel. What was the speed of the train (nearest mph)?",
+   "choices": [
+    "18 mph",
+    "42 mph",
+    "55 mph",
+    "67 mph",
+    "80 mph"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "trigonometry",
+    "word-problems"
+   ],
+   "statement": "A statue is 50 ft high and it sits on a pedestal which is 25 ft high. How far back (along level ground) should an observer, whose eyes are 5 ft above ground level, stand in order to have equal angles made at her eyes by the statue and by the pedestal on which it sits?",
+   "choices": [
+    "25 ft",
+    "35 ft",
+    "40 ft",
+    "50 ft",
+    "75 ft"
+   ]
+  }
+ ]
+}

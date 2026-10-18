@@ -1,0 +1,295 @@
+{
+ "id": "1999-fall",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "logarithms-exponents"
+   ],
+   "statement": "If $k = 2^{1999}$, then $2^{1999} + 2^{2000} + 2^{2001} =$",
+   "choices": [
+    "$5k$",
+    "$6k$",
+    "$7k$",
+    "$13k$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A circular target with a radius of 12 inches is to have a circular bull’s-eye painted in the center so that the area of the bull’s-eye is 1% of the total area of the target. What should the radius of the bull’s-eye be?",
+   "choices": [
+    "0.12 inches",
+    "1.2 inches",
+    "$\\dfrac{1}{\\sqrt{\\pi}}$ inches",
+    "$\\dfrac{12}{\\sqrt{145}}$ inches",
+    "none of these"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "$$\\begin{array}{l} \\text{AMATYC} \\\\ \\text{MATYC} \\\\ \\text{ATYC} \\\\ \\text{TYC} \\\\ \\text{YC} \\\\ \\text{C} \\end{array}$$\n\nStarting at the upper left “A” and moving either down or to the right, how many ways are there to spell “AMATYC”?",
+   "choices": [
+    "$16$",
+    "$24$",
+    "$30$",
+    "$32$",
+    "$64$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "probability"
+   ],
+   "statement": "A collection of $n$ real values has a mean of 20, a median of 30, and a (unique) mode of 50. What is the minimum possible value for $n$?",
+   "choices": [
+    "$4$",
+    "$5$",
+    "$9$",
+    "$11$",
+    "$13$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "word-problems",
+    "number-theory"
+   ],
+   "statement": "If bread costs \\$0.85 per loaf and jelly costs \\$1.55 per jar, and \\$14.00 is spent on bread and jelly, then how many jars of jelly were bought?",
+   "choices": [
+    "$1$",
+    "$3$",
+    "$5$",
+    "$7$",
+    "This cannot be determined uniquely."
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "$$\\sqrt{20 + \\sqrt{20 + \\sqrt{20 + \\ldots}}} =$$",
+   "choices": [
+    "$\\sqrt{21}$",
+    "$2\\sqrt{6}$",
+    "$2\\sqrt{7}$",
+    "$5$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "algebra",
+    "polynomials"
+   ],
+   "statement": "How many real solutions does $\\left(x^2 - 9x + 19\\right)^{(2x^3 - x^2 - 10x)} = 1$ have?",
+   "choices": [
+    "$3$",
+    "$4$",
+    "$5$",
+    "$6$",
+    "$7$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "number-theory",
+    "algebra"
+   ],
+   "statement": "Let $k$ be the least positive integer that is divisible by each of the first ten natural numbers. Find $\\sqrt{\\dfrac{k}{35} - 8}$.",
+   "choices": [
+    "$8$",
+    "$4\\sqrt{2}$",
+    "$2\\sqrt{34}$",
+    "$2\\sqrt{7}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "trigonometry",
+    "coordinate-geometry"
+   ],
+   "statement": "Find $\\cos\\theta$ to the nearest thousandth, where $\\theta$ is the acute angle between the graphs of $y = 5x$ and $y = 6x$.",
+   "choices": [
+    "$0.873$",
+    "$0.891$",
+    "$0.949$",
+    "$0.972$",
+    "$0.999$"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "logarithms-exponents"
+   ],
+   "statement": "If $k = \\log_a b$, then $\\log_a \\sqrt{b} - \\log_b (a^4) =$",
+   "choices": [
+    "$-\\dfrac{7k}{2}$",
+    "$\\dfrac{9k}{2}$",
+    "$-\\dfrac{k}{4}$",
+    "$\\dfrac{2k^2 - 1}{4k}$",
+    "$\\dfrac{k^2 - 8}{2k}$"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "vectors-matrices",
+    "algebra"
+   ],
+   "statement": "Suppose $$\\begin{vmatrix} 2 & k & 1 \\\\ 2k & -1 & 3 \\\\ -2 & 4k & 1 \\end{vmatrix} = 32.$$ Then the sum of all possible distinct real values for $k$ is",
+   "choices": [
+    "$-11$",
+    "$-7$",
+    "$5$",
+    "$13$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "Find the equation of the ellipse whose foci are at $(3,0)$ and $(-3,0)$ and which passes through $(4,1)$.",
+   "choices": [
+    "$2x^2 + y^2 = 33$",
+    "$2x^2 + 3y^2 = 35$",
+    "$x^2 + 3y^2 = 19$",
+    "$3x^2 + 2y^2 = 50$",
+    "$x^2 + 2y^2 = 18$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "probability",
+    "logic"
+   ],
+   "statement": "Suppose p and q are independent statements, with the probability that each is true being 0.3 and 0.4, respectively. What is the probability that statement $p \\rightarrow q$ is true?",
+   "choices": [
+    "$0.12$",
+    "$0.58$",
+    "$0.72$",
+    "$0.75$",
+    "$0.82$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "An arch is in the shape of a semicircle. At a point along the base 1 ft from an end of the arch, the height of the arch is 7 ft. Find the maximum height of the arch.",
+   "choices": [
+    "21 ft",
+    "25 ft",
+    "49 ft",
+    "$18\\sqrt{2}$ ft",
+    "$16\\sqrt{2}$ ft"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "sequences-series"
+   ],
+   "statement": "If the eighth term of a geometric series is $8!$, and the ninth term is $9!$, then what is the twelfth term?",
+   "choices": [
+    "$12!$",
+    "$(9!)^3$",
+    "$\\dfrac{12!}{9! - 8!}$",
+    "$9^4 \\cdot (8!)$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "geometry",
+    "coordinate-geometry"
+   ],
+   "statement": "Circle $A$ has radius 1, is located in the first quadrant, and is tangent to both the $x$-axis and the $y$-axis. Larger circle $B$ is also located in the first quadrant, is also tangent to both the $x$-axis and the $y$-axis, and is tangent to circle $A$. Find the radius of circle $B$.",
+   "choices": [
+    "$2 + 2\\sqrt{2}$",
+    "$3 + 2\\sqrt{2}$",
+    "$4\\sqrt{3} - 1$",
+    "$3(2\\sqrt{2} - 1)$",
+    "$\\dfrac{2(\\sqrt{3} + 1)}{\\sqrt{3} - 1}$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "Juanita was paddling her canoe upstream at a constant rate. After six miles, the wind blew her hat into the stream, and the hat began flowing downstream. She continued upstream for 2 more hours before turning around and heading back downstream, paddling at the same rate she had on the upstream journey. She overtakes her hat just as she returns to the original starting point. What was the speed of the current?",
+   "choices": [
+    "0.5 mph",
+    "1.0 mph",
+    "1.5 mph",
+    "2.0 mph",
+    "2.5 mph"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "geometry",
+    "trigonometry"
+   ],
+   "statement": "Circle $A$ has radius 1 and is externally tangent to larger circle $B$ at point $P$. Let $x$ be the radius of circle $B$. Two lines, which are each tangent to both circles at points other than $P$, intersect to form an angle whose measure is",
+   "choices": [
+    "$2\\arcsin\\left(\\dfrac{x-1}{x+1}\\right)$",
+    "$\\arcsin\\left(\\dfrac{2\\sqrt{x}}{x+1}\\right)$",
+    "$\\arcsin\\left(\\dfrac{2(x-1)}{x+1}\\right)$",
+    "$\\arcsin\\left(\\dfrac{x-1}{2(x+1)}\\right)$",
+    "$\\arcsin\\left(\\dfrac{x-1}{x+1}\\right)$"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "geometry",
+    "coordinate-geometry"
+   ],
+   "statement": "The diagonal $AC$ of square $ABCD$ has a length of $2\\sqrt{2}$ inches. Point $P$ is located on side $BC$ such that the ratio of $PC$ to $PB$ is three. Let $O$ be the center of the circle passing through $A$, $P$, and the center of the square. Find the distance from $O$ to $D$ to the nearest hundredth of an inch.",
+   "choices": [
+    "2.25",
+    "2.35",
+    "2.45",
+    "2.55",
+    "2.65"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "The base ten representation of $999!$ ends in a string of how many zeros?",
+   "choices": [
+    "$99$",
+    "$199$",
+    "$246$",
+    "$256$",
+    "none of these"
+   ]
+  }
+ ]
+}

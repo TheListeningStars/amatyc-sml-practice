@@ -1,0 +1,303 @@
+{
+ "id": "2009-spring",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "If the coordinates of one endpoint of a line segment are $(3, -3)$ and the coordinates of the midpoint are $(7, 5)$, what are the coordinates of the other endpoint?",
+   "choices": [
+    "$(11, 13)$",
+    "$(13, 11)$",
+    "$(17, 7)$",
+    "$(7, 17)$",
+    "$(5, 1)$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "Let the operation $\\Delta$ be defined for positive integers $a$ and $b$ by $a \\Delta b = ab + b$. If $x \\Delta (x - 1) = 323$, find $x \\Delta (x + 1)$.",
+   "choices": [
+    "$324$",
+    "$325$",
+    "$342$",
+    "$360$",
+    "$361$"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "geometry",
+    "algebra"
+   ],
+   "statement": "The perimeter of a rectangle is 36 ft and a diagonal is $\\sqrt{170}$ ft. Its area in ft$^2$ is",
+   "choices": [
+    "$70$",
+    "$72$",
+    "$75$",
+    "$77$",
+    "$80$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "functions"
+   ],
+   "statement": "Which of the following functions satisfies the equation $f(x + f(x)) = f(f(x)) + f(x)$ for all real values of $x$ and $y$?",
+   "choices": [
+    "$f(x) = x$",
+    "$f(x) = 2x$",
+    "$f(x) = \\ln(x)$",
+    "A and B",
+    "all of them"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "algebra",
+    "polynomials"
+   ],
+   "statement": "For what values of $k$ will the equation $x\\sqrt{14} + 7 = kx^2$ have exactly 2 real solutions?",
+   "choices": [
+    "$k > 2$",
+    "$k > -1/2$",
+    "$k > -2$",
+    "$k < -2$",
+    "$k < -1/2$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "number-theory",
+    "polynomials"
+   ],
+   "statement": "If $x$ and $n$ are positive integers with $x > n$ and $x^n - x^{n-1} - x^{n-2} = 2009$, find $x + n$.",
+   "choices": [
+    "$10$",
+    "$11$",
+    "$12$",
+    "$13$",
+    "$14$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "In a tournament, 3/7 of the women are matched against half of the men. What fraction of all the players is matched against someone of the other gender?",
+   "choices": [
+    "$2/5$",
+    "$3/7$",
+    "$4/9$",
+    "$6/13$",
+    "$13/28$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "Four points $A$, $B$, $C$, and $D$ on a given circle are chosen. If the diagonals of quadrilateral $ABCD$ intersect at the center of the circle, then $ABCD$ must be a",
+   "choices": [
+    "trapezoid",
+    "square",
+    "rectangle",
+    "kite",
+    "none of these"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "logic",
+    "combinatorics"
+   ],
+   "statement": "In the diagram shown, the boxes are to be filled with the digits 1 through 8 (each used exactly once). If no two boxes connected directly by a line segment can contain consecutive digits, find $X + Y$.",
+   "choices": [
+    "$7$",
+    "$8$",
+    "$9$",
+    "$10$",
+    "$11$"
+   ],
+   "figure": {
+    "page": 1,
+    "box": [
+     0.535,
+     0.6905,
+     0.82,
+     0.845
+    ]
+   }
+  },
+  {
+   "n": 10,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A cone has a circular base with a radius of 4 cm. A slice is made parallel to the base of the cone so that the new cone formed has half the volume of the original cone. What is the radius in centimeters of the base of the new cone?",
+   "choices": [
+    "$2\\sqrt[3]{4}$",
+    "$2\\sqrt[3]{2}$",
+    "$2\\sqrt{2}$",
+    "$2$",
+    "$1$"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "At one point as Elena climbs a ladder, she finds that the number of rungs above her is twice the number below her (not counting the rung she is on). After climbing 5 more rungs, she finds that the number of rungs above and below her are equal. How many more rungs must she climb to have the number below her be four times the number above her?",
+   "choices": [
+    "$5$",
+    "$6$",
+    "$7$",
+    "$8$",
+    "$9$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "trigonometry"
+   ],
+   "statement": "If $\\sin\\theta - \\cos\\theta = 0.2$ and $\\sin 2\\theta = 0.96$, find $\\sin^3\\theta - \\cos^3\\theta$.",
+   "choices": [
+    "$0.25$",
+    "$0.276$",
+    "$0.28$",
+    "$0.296$",
+    "$0.30$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "functions"
+   ],
+   "statement": "How many asymptotes does the function $g(x) = \\dfrac{x}{10\\sqrt{100x^2 - 1}}$ have?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "For how many solutions of the equation $x^2 + 4x + 6 = y^2$ are both $x$ and $y$ integers?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$2$",
+    "$3$",
+    "an infinite number"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "number-theory",
+    "algebra"
+   ],
+   "statement": "The sum of the squares of the four integers $r$, $s$, $t$, and $u$ is 685, and the product of $r$ and $s$ is the opposite of the product of $t$ and $u$. Find $|r| + |s| + |t| + |u|$.",
+   "choices": [
+    "$39$",
+    "$41$",
+    "$43$",
+    "$45$",
+    "$47$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "You pass through five traffic signals on your way to work. Each is either red, yellow, or green. A red is always immediately followed by a yellow; a green is never followed immediately by a green. How many different sequences of colors are possible for the five signals?",
+   "choices": [
+    "$42$",
+    "$48$",
+    "$54$",
+    "$60$",
+    "$66$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "algebra",
+    "number-theory"
+   ],
+   "statement": "How many different ordered pairs of integers with $y \\ne 0$ are solutions for the system of equations $6x^2y + y^3 + 10xy = 0$ and $2x^2y + 2xy = 0$ ?",
+   "choices": [
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$",
+    "$5$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "coordinate-geometry",
+    "algebra"
+   ],
+   "statement": "The graph of the equation $x + y = x^3 + y^3$ is the union of a",
+   "choices": [
+    "line and an ellipse",
+    "line and a parabola",
+    "parabola and an ellipse",
+    "pair of lines",
+    "line and a hyperbola"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "A four-digit number each of whose digits is 1, 5, or 9 is divisible by 37. If the digits add up to 16, find the sum of the last two digits.",
+   "choices": [
+    "$2$",
+    "$6$",
+    "$10$",
+    "$12$",
+    "$14$"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "In $\\triangle ABC$, $AB = 5$, $BC = 8$, and $\\angle B = 90^\\circ$. Choose $D$ on $\\overline{AB}$ and $E$ on $\\overline{BC}$ such that $BD = 3$ and $BE = 5$. Find the area common to the interiors of $\\triangle ABC$ and the rectangle determined by $\\overline{BD}$ and $\\overline{BE}$.",
+   "choices": [
+    "$1111/80$",
+    "$1113/80$",
+    "$1117/80$",
+    "$1119/80$",
+    "$1121/80$"
+   ]
+  }
+ ]
+}

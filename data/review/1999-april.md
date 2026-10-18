@@ -1,0 +1,1 @@
+No changes. All 20 problems, choices, figure crop (#1), and key (key-1.png) verified against the scan; files are current (not stale) and match the images; check.py OK. Note: #1 crop shows mirrored scan bleed-through text in the background (inherent to scan).

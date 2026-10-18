@@ -1,0 +1,304 @@
+{
+ "id": "2018-fall",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "For real numbers $x$ and $y$, define the binary operation $\\#$ by: $x \\# y = \\dfrac{xy^2 + yx^2}{5 + x^2y^2}$. Find $2 \\# (5 \\# 2)$.",
+   "choices": [
+    "$17/105$",
+    "$17/61$",
+    "$32/61$",
+    "$2/3$",
+    "$61/17$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "algebra",
+    "logic"
+   ],
+   "statement": "(i) Is the binary operation defined in problem #1 commutative for all real numbers?\n\n(ii) Is the binary operation defined in problem #1 associative for all real numbers?",
+   "choices": [
+    "(i) Yes (ii) Yes",
+    "(i) Yes (ii) No",
+    "(i) No (ii) Yes",
+    "(i) No (ii) No",
+    "Impossible to determine"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "combinatorics",
+    "geometry"
+   ],
+   "statement": "A 40 yd. by 30 yd. garden was subdivided into 1200 squares, each with side length 1 yd. A post was placed at each corner of each square (only one post was placed on shared corners). A single section of fence of length 1 yard was placed on each shared side and also along the outside border. Let $P$ = the number of posts used and $F$ = the number of fence sections used. Find $P + F$.",
+   "choices": [
+    "$3530$",
+    "$3671$",
+    "$3740$",
+    "$3741$",
+    "$3751$"
+   ],
+   "figure": {
+    "page": 1,
+    "box": [
+     0.8,
+     0.215,
+     0.93,
+     0.3
+    ]
+   }
+  },
+  {
+   "n": 4,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "Points $A$ and $B$ lie on a circle with radius 6 units centered at $C$. The measure of $\\angle ACB$ is $120^\\circ$. Point $X$ is outside the circle such that segments $XB$ and $XA$ are both tangent to the circle. Find the area of quadrilateral $XACB$.",
+   "choices": [
+    "$18\\sqrt{3}$",
+    "$48$",
+    "$36\\sqrt{3}$",
+    "$64$",
+    "$48\\sqrt{3}$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "number-theory",
+    "logic"
+   ],
+   "statement": "Replace each letter in the subtraction problem below with a base-10 digit so that identical letters are replaced by identical digits, and different letters are replaced with different digits. (Note: **N**, **S**, **E** cannot be 0.) There are two possible solutions. Find the sum of the two possible values of $N$.\n\n$$\\begin{array}{rrrrr} \\mathbf{S} & \\mathbf{E} & \\mathbf{V} & \\mathbf{E} & \\mathbf{N} \\\\ - & \\mathbf{N} & \\mathbf{I} & \\mathbf{N} & \\mathbf{E} \\\\ \\hline \\mathbf{E} & \\mathbf{I} & \\mathbf{G} & \\mathbf{H} & \\mathbf{T} \\end{array}$$",
+   "choices": [
+    "$7$",
+    "$9$",
+    "$10$",
+    "$11$",
+    "$12$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "probability",
+    "number-theory"
+   ],
+   "statement": "If ninety-one base-10 digits are chosen at random, what is the probability that some of the digits can form a number $x$ with $n$ digits, and the rest can form a number $b$ with $(91-n)$ digits such that $x = b^2$? (Note: $x$ and $b$ cannot begin with the digit 0.)",
+   "choices": [
+    "$0$",
+    "$9/91$",
+    "$1/2$",
+    "$59/91$",
+    "$1$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "How many distinct 8-digit numbers can be formed by selecting and arranging 8 digits, without replacement, from the string 1234455666?",
+   "choices": [
+    "$67{,}200$",
+    "$75{,}600$",
+    "$80{,}640$",
+    "$84{,}000$",
+    "$104{,}160$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "How many distinct solutions $(a, b, c)$, where $a$, $b$, and $c$ are all positive integers, are there to the equation $a^6 + b^2 + c^3 = 2018$?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "logic"
+   ],
+   "statement": "Three people (X, Y, Z) are in a room with you. One is a knight (knights always tell the truth), one is a knave (knaves always lie), and the other is a spy (spies may either lie or tell the truth). X says “Z is a knave.”, Y says “X is a knight.”, and Z says “I am a spy.” Which of the following correctly identifies all three people?",
+   "choices": [
+    "X is the spy. Y is the knight. Z is the knave.",
+    "X is the spy. Y is the knave. Z is the knight.",
+    "X is the knight. Y is the knave. Z is the spy.",
+    "X is the knight. Y is the spy. Z is the knave.",
+    "X is the knave. Y is the knight. Z is the spy."
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "coordinate-geometry",
+    "algebra"
+   ],
+   "statement": "What shape is the graph of the equation $x^2 + y = xy + x$?",
+   "choices": [
+    "A hyperbola",
+    "A line",
+    "A hyperbola and a line",
+    "A parabola",
+    "Two lines"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "combinatorics",
+    "number-theory"
+   ],
+   "statement": "Every so often, a peculiar professor buys $n$ snacks at the store and then arranges them in a circle. He eats one snack each day and gives the last one remaining to his dog. He begins at the top of the circle (#1), and then, moving clockwise, eats *every other* snack remaining on the table. For example, if he buys 5 snacks, he eats #1, skips #2, eats #3, skips #4, eats #5, skips #2, eats #4, then gives #2 to his dog. If he buys 125 snacks, which one will his dog eat?",
+   "choices": [
+    "#122",
+    "#102",
+    "#80",
+    "#64",
+    "#2"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "logarithms-exponents"
+   ],
+   "statement": "The solution to the equation $(\\log_8 x^2)(\\log_x 8)^2 = 1$ satisfies which inequality below?",
+   "choices": [
+    "$0 < x \\le 1$",
+    "$1 < x \\le 10$",
+    "$10 < x \\le 50$",
+    "$50 < x \\le 100$",
+    "$x > 100$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "Let $R$ be the remainder when $1! + 2! + 3! + \\ldots + 100!$ is divided by 15. Let $N$ be the smallest integer greater than 1 such that $N^N$ is the square of an integer. Find $R + N$.",
+   "choices": [
+    "$5$",
+    "$7$",
+    "$9$",
+    "$13$",
+    "$17$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "coordinate-geometry",
+    "algebra"
+   ],
+   "statement": "The line $Ax + By = 1$ passes through the point $(-9, 10)$, has negative slope, and has intercepts $(p, 0)$ and $(0, q)$. If $p + q = 14$, find $A + B$.",
+   "choices": [
+    "$-1/28$",
+    "$-14/45$",
+    "$1/28$",
+    "$5/17$",
+    "$14/45$"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "polynomials",
+    "algebra"
+   ],
+   "statement": "The roots of $ax^2 + bx + c = 0$, where $a$, $b$, and $c$ are real numbers with $a$ nonzero, are $r$ and $s$. If $\\dfrac{r}{1+r}$ and $\\dfrac{s}{1+s}$ are the roots of $x^2 + dx + e = 0$ ($d$, $e$ are real), find $d + e$.",
+   "choices": [
+    "$\\dfrac{b-c}{a-b+c}$",
+    "$\\dfrac{b-c}{b-a+2c}$",
+    "$\\dfrac{3c-b}{a-b+c}$",
+    "$\\dfrac{3c-b}{b-a+2c}$",
+    "$\\dfrac{b+c}{b-a+2c}$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "Two circles with the same center create a ring. A chord of the outer circle tangent to the inner circle has length $2\\sqrt{19}$. The difference of the two circles’ radii is 1. What is the greatest number of circles tangent to both the inner and outer circles that can fit inside the ring without overlapping?",
+   "choices": [
+    "$57$",
+    "$58$",
+    "$59$",
+    "$60$",
+    "$61$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "number-theory",
+    "coordinate-geometry"
+   ],
+   "statement": "Let $P$ be the largest prime number that divides all four-digit numbers with identical digits (of the form $aaaa$). Let $K$ be the $y$-coordinate of the vertex of the parabola with $x$-intercepts of $(2 \\pm \\sqrt{3}, 0)$ and a $y$ intercept of $(0, -3)$. Find $P + K$.",
+   "choices": [
+    "$110$",
+    "$103$",
+    "$100$",
+    "$99$",
+    "$92$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "sequences-series",
+    "algebra"
+   ],
+   "statement": "The first three terms of an arithmetic sequence are represented by $8x - 1$, $4x + 2$, and $2x - 6$. Find the sum of these three terms.",
+   "choices": [
+    "$-19$",
+    "$-11/2$",
+    "$11/2$",
+    "$19$",
+    "$72$"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "word-problems"
+   ],
+   "statement": "Emily drives to school at a speed of 60 miles per hour. On the return trip, she runs into traffic and travels at 20 miles per hour. What is her average speed for the entire trip?",
+   "choices": [
+    "24 mph",
+    "30 mph",
+    "36 mph",
+    "40 mph",
+    "42 mph"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "probability"
+   ],
+   "statement": "Three fair six-sided dice are rolled. Let $P_1$ be the probability that the sum of the numbers shown on the dice is 5. A different six-sided die is biased so that $P(1) = P(2)$, $P(3) = 2P(1)$, $P(4) = 3P(2)$, $P(5) = 4P(3)$ and $P(6) = 3P(5)$. Let $P_2$ be the probability of rolling a 2 on this die. Let $P_3$ be the probability that a randomly selected integer between 1 and 999 inclusive is divisible by 39. Order these probabilities from greatest to least.",
+   "choices": [
+    "$P_1, P_2, P_3$",
+    "$P_1, P_3, P_2$",
+    "$P_2, P_1, P_3$",
+    "$P_2, P_3, P_1$",
+    "$P_3, P_1, P_2$"
+   ]
+  }
+ ]
+}

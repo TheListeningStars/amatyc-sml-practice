@@ -1,0 +1,295 @@
+{
+ "id": "2008-fall",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "Line $L$ has equation $y = 2x + 3$, and line $M$ has the same $y$-intercept as $L$. Which of the points below must $M$ contain to be perpendicular to $L$?",
+   "choices": [
+    "$(-4, 5)$",
+    "$(-2, 5)$",
+    "$(-1, 5)$",
+    "$(1, 5)$",
+    "$(4, 5)$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "Sue just received a 5% raise. Now she earns \\$1200 more than Lisa. Before Sue’s raise, Lisa’s salary was 1% higher than Sue’s. What is Lisa’s salary?",
+   "choices": [
+    "\\$28,000",
+    "\\$29,400",
+    "\\$30,000",
+    "\\$30,300",
+    "\\$31,200"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "polynomials"
+   ],
+   "statement": "If $x = -1$ is one solution of $ax^2 + bx + c = 0$, what is the other solution?",
+   "choices": [
+    "$x = -a/b$",
+    "$x = -b/a$",
+    "$x = b/a$",
+    "$x = -c/a$",
+    "$x = c/b$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "logic",
+    "word-problems"
+   ],
+   "statement": "Ryan told Sam that he had 9 coins worth 45¢. Sam said, \"There is more than one possibility. How many are pennies?\" After Ryan answered truthfully, Sam said, \"Now I know what coins you have.\" How many nickels did Ryan have?",
+   "choices": [
+    "$0$",
+    "$3$",
+    "$4$",
+    "$5$",
+    "$9$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "number-theory",
+    "coordinate-geometry"
+   ],
+   "statement": "A point $(a, b)$ is a lattice point if both $a$ and $b$ are integers. It is called *visible* if the line segment from $(0, 0)$ to it does NOT pass through any other lattice points. Which of the following lattice points is visible?",
+   "choices": [
+    "$(28, 14)$",
+    "$(28, 15)$",
+    "$(28, 16)$",
+    "$(28, 18)$",
+    "$(28, 21)$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "sequences-series",
+    "number-theory"
+   ],
+   "statement": "A flea jumps clockwise around a clock starting at 12. The flea first jumps one number to 1, then two numbers to 3, then three to 6, then two to 8, then one to 9, then two, then three, etc. What number does the flea land on at his $2008^{\\text{th}}$ jump?",
+   "choices": [
+    "$4$",
+    "$5$",
+    "$6$",
+    "$7$",
+    "$8$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "In quadrilateral $ABCD$, $E$ is the midpoint of $\\overline{AB}$, $F$ is the midpoint of $\\overline{BC}$, $G$ is the midpoint of $\\overline{CD}$, and $H$ is the midpoint of $\\overline{DA}$. Which of the following must be true?",
+   "choices": [
+    "$\\angle FEH = \\angle FGH$",
+    "$\\angle FEH = \\angle EHG$",
+    "$\\angle FEH + \\angle EHG = 180^\\circ$",
+    "both A and C",
+    "both B and C"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "All nonempty subsets of $\\{2, 4, 5, 7\\}$ are selected. How many different sums do the elements of each of these subsets add up to?",
+   "choices": [
+    "$10$",
+    "$11$",
+    "$12$",
+    "$14$",
+    "$15$"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "Luis solves the equation $ax - b = c$, and Anh solves $bx - c = a$. If they get the same correct answer for $x$, and $a$, $b$, and $c$ are distinct and nonzero, what must be true?",
+   "choices": [
+    "$a + b + c = 0$",
+    "$a + b + c = 1$",
+    "$a + b = c$",
+    "$b = a + c$",
+    "$a = b + c$"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "functions",
+    "polynomials"
+   ],
+   "statement": "How many asymptotes does the function $f(x) = \\dfrac{x^2 - 22x + 40}{x^2 + 13x - 30}$ have?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "number-theory",
+    "logic"
+   ],
+   "statement": "Replace each letter of AMATYC with a digit 0 through 9 (equal letters replaced by equal digits, different letters replaced by different digits). If the resulting number is the largest such number divisible by 55, find $A + M + A + T + Y + C$.",
+   "choices": [
+    "$36$",
+    "$38$",
+    "$40$",
+    "$42$",
+    "$44$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "The equation $a^6 + b^2 + c^2 = 2009$ has a solution in positive integers $a$, $b$, and $c$ in which exactly two of $a$, $b$, and $c$ are powers of 2. Find $a + b + c$.",
+   "choices": [
+    "$43$",
+    "$45$",
+    "$47$",
+    "$49$",
+    "$51$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "number-theory",
+    "word-problems"
+   ],
+   "statement": "ACME Widget employees are paid every other Friday (i. e., on Fridays in alternate weeks). The year 2008 was unusual in that ACME had 3 paydays in February. What is the units digit of the next year in which ACME has 3 February paydays?",
+   "choices": [
+    "$0$",
+    "$2$",
+    "$4$",
+    "$6$",
+    "$8$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "logic"
+   ],
+   "statement": "Five murder suspects, including the murderer, are being interrogated by the police. Results of a polygraph indicate two of them are lying and three are telling the truth. If the polygraph results are correct, who is the murder?\n\nSuspect A: “D is the murderer”  Suspect B: “I am innocent”  Suspect C: “It wasn’t E”\n\nSuspect D: “A is lying”  Suspect E: “B is telling the truth”",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "sequences-series"
+   ],
+   "statement": "Two arithmetic sequences are multiplied together to produce the sequence 468, 462, 384, $\\ldots$. What is the next term of this sequence?",
+   "choices": [
+    "$250$",
+    "$286$",
+    "$300$",
+    "$324$",
+    "$336$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "trigonometry",
+    "geometry"
+   ],
+   "statement": "In $\\triangle ABC$, $AB = 5$, $BC = 9$, and $AC = 7$. Find the value of $\\dfrac{\\tan\\frac{A-B}{2}}{\\tan\\frac{A+B}{2}}$.",
+   "choices": [
+    "$\\frac{1}{8}$",
+    "$\\frac{7}{9}$",
+    "$\\frac{3}{2}$",
+    "$\\frac{9}{7}$",
+    "$8$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A pyramid has a square base 6 m on a side and a height of 9 m. Find the volume of the portion of the pyramid which lies above the base and below a plane parallel to the base and 3 m above the base.",
+   "choices": [
+    "$32\\ \\text{m}^3$",
+    "$36\\ \\text{m}^3$",
+    "$64\\ \\text{m}^3$",
+    "$72\\ \\text{m}^3$",
+    "$76\\ \\text{m}^3$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "geometry",
+    "trigonometry"
+   ],
+   "statement": "In $\\triangle ABC$, $AB = AC$ and in $\\triangle DEF$, $DE = DF$. If $AB$ is twice $DE$ and $\\angle D$ is twice $\\angle A$, then the ratio of the area of $\\triangle ABC$ to the area of $\\triangle DEF$ is:",
+   "choices": [
+    "$\\tan A$",
+    "$2 \\sec A$",
+    "$\\csc 2A$",
+    "$\\sec A \\tan A$",
+    "$\\cot 2A$"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "In hexagon $PQRSTU$, all interior angles $= 120^\\circ$. If $PQ = RS = TU = 50$, and $QR = ST = UP = 100$, find the area of the triangle bounded by $QT$, $RU$, and $PS$ to the nearest tenth.",
+   "choices": [
+    "$1082.5$",
+    "$1082.9$",
+    "$1083.3$",
+    "$1083.5$",
+    "$1083.9$"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "sequences-series",
+    "number-theory"
+   ],
+   "statement": "For all integers $k \\ge 0$, $P(k) = \\left(2^{2} + 2^{1} + 1\\right)\\left(2^{2} - 2^{1} + 1\\right)\\left(2^{4} - 2^{2} + 1\\right)\\cdots\\left(2^{2^{k+1}} - 2^{2^{k}} + 1\\right) - 1$ is always the product of two integers $n$ and $n + 1$. Find the smallest value of $k$ for which $n + (n + 1) \\ge 10^{1000}$.",
+   "choices": [
+    "$9$",
+    "$10$",
+    "$11$",
+    "$12$",
+    "$13$"
+   ]
+  }
+ ]
+}

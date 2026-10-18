@@ -1,0 +1,296 @@
+{
+ "id": "2010-fall",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A square is cut into two equal rectangles, each with perimeter 36. Find the area of the square.",
+   "choices": [
+    "$36$",
+    "$64$",
+    "$100$",
+    "$144$",
+    "$196$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "Last year, the cost of milk was 150% of the cost of bread. If the cost of milk has risen by 20% and the cost of bread has risen by 25%, what percentage of the current cost of bread is the current cost of milk?",
+   "choices": [
+    "$120$",
+    "$135$",
+    "$144$",
+    "$160$",
+    "$175$"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "geometry",
+    "algebra"
+   ],
+   "statement": "Angles are complements if they add to $90^\\circ$. Let $\\angle A$ be nine times $\\angle B$ and the complement of $\\angle B$ be nine times the complement of $\\angle A$. Find $\\angle B$.",
+   "choices": [
+    "$6^\\circ$",
+    "$8^\\circ$",
+    "$9^\\circ$",
+    "$10^\\circ$",
+    "$12^\\circ$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "functions",
+    "polynomials"
+   ],
+   "statement": "Find the product of all values of $x$ for which $f(x) = \\dfrac{x-3}{x^2 - 10x - 24}$ is undefined.",
+   "choices": [
+    "$-72$",
+    "$-24$",
+    "$18$",
+    "$24$",
+    "$72$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "probability"
+   ],
+   "statement": "If you roll three fair dice, what is the probability that the product of the three numbers rolled is even?",
+   "choices": [
+    "$1/8$",
+    "$1/6$",
+    "$1/2$",
+    "$5/6$",
+    "$7/8$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "algebra",
+    "functions"
+   ],
+   "statement": "If $f(x) = ax^2 + bx + c$, $f(-1) = 10$, $f(0) = 5$, and $f(1) = 4$, find $f(2)$.",
+   "choices": [
+    "$7$",
+    "$8$",
+    "$9$",
+    "$10$",
+    "$11$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "coordinate-geometry",
+    "combinatorics"
+   ],
+   "statement": "A lattice point is a point with both coordinates integers. How many lattice points lie on or inside the triangle with vertices $(0, 0)$, $(10, 0)$, and $(0, 8)$?",
+   "choices": [
+    "$51$",
+    "$52$",
+    "$53$",
+    "$54$",
+    "$55$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "geometry",
+    "algebra"
+   ],
+   "statement": "The perimeter of a rectangle is 52 and its diagonal is 20. Find its area.",
+   "choices": [
+    "$134$",
+    "$138$",
+    "$142$",
+    "$144$",
+    "$148$"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "The consecutive even numbers are written side-by-side to form the infinite decimal $0.24681012141618\\ldots$. Find the digit in the $2010^{\\text{th}}$ decimal place.",
+   "choices": [
+    "$2$",
+    "$4$",
+    "$5$",
+    "$6$",
+    "$7$"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "number-theory",
+    "logic"
+   ],
+   "statement": "When AMATYC is transformed into a 6-digit number by replacing identical letters with identical digits and different letters with different digits, the result is divisible by 35. Find the final 2 digits for the least such number.",
+   "choices": [
+    "$25$",
+    "$35$",
+    "$45$",
+    "$65$",
+    "$75$"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "functions",
+    "logarithms-exponents"
+   ],
+   "statement": "Let $f(x) = \\ln\\left(x + \\sqrt{1 + x^2}\\right)$. Find $f^{-1}(\\ln 7)$.",
+   "choices": [
+    "$\\dfrac{11}{7}$",
+    "$\\dfrac{24}{7}$",
+    "$\\dfrac{7}{2}$",
+    "$\\dfrac{7}{24}$",
+    "$\\dfrac{7}{11}$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "trigonometry"
+   ],
+   "statement": "If $\\sin(30^\\circ + \\arctan x) = \\dfrac{13}{14}$ and $0 < x < 1$, the value of $x$ is $\\dfrac{a}{b}\\sqrt{3}$, where $a$ and $b$ are positive integers with no common prime factors. Find $a + b$.",
+   "choices": [
+    "$16$",
+    "$18$",
+    "$20$",
+    "$22$",
+    "$24$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "The equation $a^5 + b^2 + c^2 = 2010$ ($a$, $b$, $c$ positive integers) has a solution in which $b$ and $c$ have a common factor $d > 1$. Find $d$.",
+   "choices": [
+    "$2$",
+    "$3$",
+    "$5$",
+    "$7$",
+    "$11$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "probability"
+   ],
+   "statement": "Two real numbers are chosen independently at random from the interval $[0, 1]$. Find the probability that their sum $< 1$ AND one is at least twice the other.",
+   "choices": [
+    "$1/5$",
+    "$1/4$",
+    "$1/3$",
+    "$2/5$",
+    "$1/2$"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A rectangle $R$ has width 4 and length 6. The curve $C$ consists of all points outside of $R$ whose distance to the nearest point of $R$ is 1, and $D$ consists of all points outside of $C$ whose distance to the nearest point of $C$ is 1. Find the area enclosed by $D$, rounded to the nearest square unit.",
+   "choices": [
+    "$71$",
+    "$73$",
+    "$75$",
+    "$77$",
+    "$79$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "functions"
+   ],
+   "statement": "Let $f(x) = \\dfrac{\\sqrt{x^2 - 1}}{x}$. Find the set of all real values of $x$ for which $f(f(x))$ exists.",
+   "choices": [
+    "$|x| > 1$",
+    "$|x| \\ge 1$",
+    "$x = \\pm 1$",
+    "$|x| \\le 1,\\ x \\ne 0$",
+    "no values of $x$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "sequences-series"
+   ],
+   "statement": "The integer $r > 1$ is both the common ratio of an integer geometric sequence and the common difference of an integer arithmetic sequence. Summing corresponding terms of the sequences yields $7, 26, 90, \\ldots$. The value of $r$ is",
+   "choices": [
+    "$2$",
+    "$4$",
+    "$8$",
+    "$12$",
+    "$16$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "sequences-series",
+    "number-theory"
+   ],
+   "statement": "In a certain sequence, the first two terms are prime, and each term after the second is the product of the previous two terms. If the seventh term is 12,500,000, find the eighth term divided by the seventh term.",
+   "choices": [
+    "$1000$",
+    "$2500$",
+    "$5000$",
+    "$10000$",
+    "$25000$"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "polynomials",
+    "number-theory"
+   ],
+   "statement": "Let $P(x)$ be a polynomial with nonnegative integer coefficients. If $P(2) = 77$ and $P(P(2)) = 1874027$, find the sum of its coefficients.",
+   "choices": [
+    "$11$",
+    "$13$",
+    "$15$",
+    "$17$",
+    "$19$"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "algebra",
+    "functions"
+   ],
+   "statement": "If $|x - 1| + |x - 2| + \\ldots + |x - 2010| \\ge m$ for every real number $x$, find the maximum possible value for $m$.",
+   "choices": [
+    "$1004 \\cdot 1005$",
+    "$1005^2$",
+    "$1004 \\cdot 1006$",
+    "$1006^2$",
+    "$1005 \\cdot 1006$"
+   ]
+  }
+ ]
+}

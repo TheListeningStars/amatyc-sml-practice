@@ -1,0 +1,291 @@
+{
+ "id": "1985-spring",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "If $y = 2x$ and $z = 2y$, then $x + y + z$ equals:",
+   "choices": [
+    "$x$",
+    "$3x$",
+    "$5x$",
+    "$7x$",
+    "$9x$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "The diagonal of square I is $a + b$. The perimeter of square II with twice the area of square I is:",
+   "choices": [
+    "$(a+b)^2$",
+    "$\\sqrt{2}\\,(a+b)^2$",
+    "$2(a+b)$",
+    "$\\sqrt{8}\\,(a+b)$",
+    "$4(a+b)$"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "What is the $y$-intercept of the line passing through $(\\sqrt{2}, 1)$ and $(-2, 2)$?",
+   "choices": [
+    "$1$",
+    "$1.5$",
+    "$\\sqrt{2}$",
+    "$\\sqrt{3}$",
+    "$5-1$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "logarithms-exponents"
+   ],
+   "statement": "For $x > 0$, $y > 0$, and $b > 0$ where $b \\ne 1$ and $y \\ne 1$, let $\\log_b x = m$ and $\\log_b y = n$. Three of the following statements are true. Which one is, in general, not true?",
+   "choices": [
+    "$\\log_b xy = nm$",
+    "$\\log_b x^p = pm$",
+    "$\\log_y x = \\dfrac{m}{n}$",
+    "$\\log_b \\dfrac{x}{y} = m - n$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "How many real solutions has the equation $|x^2 - 6x| = 9$?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "Find the area of the triangle with vertices $(-3, 1)$, $(1, 2)$, and $(2, -1)$.",
+   "choices": [
+    "$6$",
+    "$\\dfrac{13}{2}$",
+    "$7$",
+    "$\\dfrac{15}{2}$",
+    "$8$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "Find the positive number $x$ for which $\\sqrt{x} = \\sqrt[3]{y}$ and $\\sqrt{y} = 8$.",
+   "choices": [
+    "$2$",
+    "$2\\sqrt{2}$",
+    "$4$",
+    "$16$",
+    "$64$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "When the three-digit numbers $6a3$ and $2b5$ are added together, the answer is a number divisible by 9. The largest value of $a + b$ is:",
+   "choices": [
+    "$2$",
+    "$9$",
+    "$11$",
+    "$17$",
+    "$20$"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "complex-numbers"
+   ],
+   "statement": "Find the real part of $\\dfrac{i}{1+\\dfrac{i}{1+\\dfrac{i}{1+i}}}$",
+   "choices": [
+    "$-\\dfrac{1}{4}$",
+    "$\\dfrac{1}{3}$",
+    "$\\dfrac{4}{5}$",
+    "$\\dfrac{2}{3}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "The solution of the equation $\\dfrac{\\sqrt{x+1}+\\sqrt{x-1}}{\\sqrt{x+1}-\\sqrt{x-1}} = 3$ is:",
+   "choices": [
+    "$3$",
+    "$\\dfrac{3}{5}$",
+    "$\\dfrac{4}{5}$",
+    "$\\dfrac{5}{4}$",
+    "$\\dfrac{5}{3}$"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "Which of the following describes the asymptotes for the hyperbola $\\dfrac{(x-8)^2}{16} - \\dfrac{(y-3)^2}{4} = 1$",
+   "choices": [
+    "$y - 3 = \\pm\\dfrac{1}{2}(x - 8)$",
+    "$y - 1 = \\pm\\dfrac{3}{8}(x - 2)$",
+    "$y + 2 = \\pm\\dfrac{3}{8}(x - 4)$",
+    "$y - 1 = \\pm\\dfrac{1}{2}(x - 2)$",
+    "$y + 2 = \\pm\\dfrac{1}{4}(x - 4)$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "trigonometry"
+   ],
+   "statement": "$\\sin y + \\sin(x - y) = \\sin x$ for all $y$ provided that $x$ is:",
+   "choices": [
+    "$60^\\circ$",
+    "$90^\\circ$",
+    "$180^\\circ$",
+    "$270^\\circ$",
+    "$360^\\circ$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "In the figure $\\overline{AB} = \\overline{AC}$, angle $BAD = 30^\\circ$, and $\\overline{AE} = \\overline{AD}$. Then $x$ equals:",
+   "choices": [
+    "$7\\dfrac{1}{2}^\\circ$",
+    "$10^\\circ$",
+    "$12\\dfrac{1}{2}^\\circ$",
+    "$15^\\circ$",
+    "$20^\\circ$"
+   ],
+   "figure": {
+    "page": 2,
+    "box": [
+     0.37,
+     0.105,
+     0.64,
+     0.215
+    ]
+   }
+  },
+  {
+   "n": 14,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "Of the following, which fraction is an integer multiple of each of the fractions $\\dfrac{6}{7}$, $\\dfrac{5}{14}$, $\\dfrac{10}{21}$ ?",
+   "choices": [
+    "$\\dfrac{7}{30}$",
+    "$\\dfrac{7}{15}$",
+    "$\\dfrac{15}{7}$",
+    "$\\dfrac{30}{7}$",
+    "$\\dfrac{80}{21}$"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "Fifteen billiard balls are lying on a table in such a way that they are just squeezed inside an equilateral triangular frame whose inside perimeter is 876. The radius of a billiard ball is:",
+   "choices": [
+    "$\\dfrac{73}{2}$",
+    "$\\dfrac{146}{4+\\sqrt{3}}$",
+    "$\\dfrac{146}{2+\\sqrt{3}}$",
+    "$\\dfrac{146}{3+\\sqrt{3}}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "The least positive integer which has remainders 1, 1, and 5 when divided by 3, 5, and 7 respectively, is:",
+   "choices": [
+    "$166$",
+    "$151$",
+    "$145$",
+    "$131$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "Each valve $A$, $B$, and $C$, when open, releases water into a tank at its own constant rate. With all three valves open, the tank fills in one hour, with only valves $A$ and $C$ open it takes 1 hour and 20 minutes, and with only valves $B$ and $C$ open it takes 2 hours. The time it takes to fill the tank with only valves $A$ and $B$ open is:",
+   "choices": [
+    "$\\dfrac{2}{3}$ hr",
+    "$\\dfrac{4}{3}$ hr",
+    "$\\dfrac{3}{2}$ hr",
+    "$2$ hr",
+    "$\\dfrac{9}{4}$ hr"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "In how many different arrangements can a careless office boy place 5 letters into 5 mailboxes so that no one gets the right letter?",
+   "choices": [
+    "$32$",
+    "$44$",
+    "$60$",
+    "$120$",
+    "$225$"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "In the given diagram, points $B$, $C$, and $T$ are on the circle, and $AT$ is tangent to the circle at $T$. If $AB = 3$ and $BC = 4$, find $\\dfrac{AB + AT}{AT + AC}$.",
+   "choices": null,
+   "figure": {
+    "page": 2,
+    "box": [
+     0.4,
+     0.728,
+     0.6,
+     0.822
+    ]
+   }
+  },
+  {
+   "n": 20,
+   "topics": [
+    "sequences-series"
+   ],
+   "statement": "Find the limiting value of $\\dfrac{1}{9} + \\dfrac{3}{27} + \\dfrac{5}{81} + \\dfrac{7}{243} + \\ldots + \\dfrac{2k-1}{3^{k+1}}$",
+   "choices": null
+  }
+ ]
+}

@@ -1,0 +1,249 @@
+{
+ "id": "1986-spring",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "functions"
+   ],
+   "statement": "If $f(x) = \\dfrac{2x-3}{5}$, then $f^{-1}(x) = {}$?",
+   "choices": [
+    "$\\dfrac{3x+2}{5}$",
+    "$5(3x+2)$",
+    "$5\\left(\\dfrac{x}{2}+3\\right)$",
+    "$\\dfrac{5x+3}{2}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "The volume of a sphere of radius 6 cm is:",
+   "choices": [
+    "$144\\pi \\text{ cm}^3$",
+    "$288\\pi \\text{ cm}^3$",
+    "$216\\pi \\text{ cm}^3$",
+    "$864\\pi \\text{ cm}^3$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "Which of the following numbers is the greatest?",
+   "choices": [
+    "$17_{\\text{ten}}$",
+    "$1110_{\\text{two}}$",
+    "$102_{\\text{four}}$",
+    "$24_{\\text{five}}$",
+    "$21_{\\text{eight}}$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "Suppose that $m$ varies directly as the square of $p$ and inversely as $q$. Suppose also that $m = 8$ when $p = 2$ and $q = 6$. Find $m$ if $p = 6$ and $q = 10$.",
+   "choices": [
+    "$43.2$",
+    "$120$",
+    "$14.4$",
+    "$20.4$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "probability",
+    "coordinate-geometry"
+   ],
+   "statement": "Given that $(x, y)$ satisfies $x^2 + y^2 \\le 49$, what is the probability that $(x, y)$ also satisfies\n\n$$\\begin{cases} x \\ge 1 \\\\ 0 < y \\le 5 \\\\ 5x + 3y \\le 30 \\end{cases}$$",
+   "choices": [
+    "$\\dfrac{1}{6}$",
+    "$\\dfrac{1}{2\\pi}$",
+    "$\\dfrac{40}{95\\pi}$",
+    "$\\dfrac{20}{49\\pi}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "Rationalize the denominator and simplify: $\\dfrac{4}{1+\\sqrt[3]{5}}$",
+   "choices": [
+    "$-1-\\sqrt[3]{5}-\\sqrt[3]{25}$",
+    "$\\dfrac{2\\left(1-\\sqrt[3]{5}+\\sqrt[3]{25}\\right)}{3}$",
+    "$\\dfrac{2\\sqrt[3]{5}}{3}$",
+    "$-1+\\sqrt[3]{5}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "Solve $|2x - 1| + |x| = 3$. The sum of the solutions is:",
+   "choices": [
+    "$\\dfrac{2}{3}$",
+    "$\\dfrac{4}{3}$",
+    "$2$",
+    "$\\dfrac{8}{3}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "word-problems",
+    "number-theory"
+   ],
+   "statement": "A farmer bought 100 head of animals: horses, sheep, and pigs. He bought at least one of each animal and spent exactly \\$100. Horses, sheep, and pigs cost \\$10, \\$3, and \\$0.50 each, respectively. How many horses did he buy?",
+   "choices": [
+    "$2$",
+    "$5$",
+    "$7$",
+    "$8$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "If $x + y = 1$, then the largest value of $xy$ is:",
+   "choices": [
+    "$1$",
+    "$0.5$",
+    "$\\dfrac{\\sqrt{5}}{5}$",
+    "$\\dfrac{\\sqrt{3}}{3}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "trigonometry"
+   ],
+   "statement": "Solve $\\tan^2 x \\sec^2 x - 5\\tan^2 x + 3 = 0$ for $0 \\le x \\le 2\\pi$. The number of solutions is:",
+   "choices": [
+    "$2$",
+    "$4$",
+    "$6$",
+    "$8$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "functions"
+   ],
+   "statement": "A function $y = f(x)$ is described by the graph below:\n\nwhich of the following represents the graph of the translation $y - 2 = f(x + 1)$?",
+   "choices": [
+    "(graph A)",
+    "(graph B)",
+    "(graph C)",
+    "(graph D)",
+    "(graph E)"
+   ],
+   "figure": {
+    "page": 2,
+    "box": [
+     0.1,
+     0.083,
+     0.75,
+     0.545
+    ],
+    "erase": [
+     [
+      0.1,
+      0.222,
+      0.76,
+      0.246
+     ]
+    ]
+   }
+  },
+  {
+   "n": 12,
+   "topics": [
+    "logarithms-exponents"
+   ],
+   "statement": "Solve $\\log(3 + x) = \\log 3 + \\log x$",
+   "choices": [
+    "$\\dfrac{2}{9}$",
+    "$\\dfrac{1}{333}$",
+    "$\\dfrac{1}{1000}$",
+    "$1000$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "word-problems"
+   ],
+   "statement": "Bob is as old as Joe was when Bob was as old as Joe had been when Bob was half as old as Joe is. Their combined age is 44. How old is Joe?",
+   "choices": [
+    "$24$",
+    "$28$",
+    "$34$",
+    "$36$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "From a two-digit number $N$ we subtract the number with the digits reversed and find that the result is a positive perfect cube. Then:",
+   "choices": [
+    "$N$ cannot end in 5",
+    "$N$ can not end in any digit other than 9",
+    "$N$ does not exist",
+    "There are exactly seven values for $N$",
+    "None of these."
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "sequences-series"
+   ],
+   "statement": "Find the limiting sum of $\\dfrac{1}{3 \\cdot 6} + \\dfrac{1}{6 \\cdot 9} + \\dfrac{1}{9 \\cdot 12} + \\ldots$",
+   "choices": [
+    "$\\dfrac{5}{54}$",
+    "$\\dfrac{1}{9}$",
+    "$\\dfrac{7}{54}$",
+    "$\\dfrac{1}{7}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "probability",
+    "geometry"
+   ],
+   "statement": "Three marksmen simultaneously shoot at and hit a rapidly spinning spherical target. What is the probability that the three points of impact are on the same hemisphere?",
+   "choices": [
+    "$\\dfrac{3}{4\\pi}$",
+    "$\\dfrac{2}{3\\pi}$",
+    "$\\dfrac{6}{\\pi^2}$",
+    "$\\dfrac{1}{4}$",
+    "none of these"
+   ]
+  }
+ ]
+}

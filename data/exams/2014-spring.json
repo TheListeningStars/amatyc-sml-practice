@@ -1,0 +1,287 @@
+{
+ "id": "2014-spring",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "word-problems"
+   ],
+   "statement": "A store advertises, “We pay the sales tax!” If sales tax is 8%, what discount to the buyer to the nearest tenth of a percent does this represent?",
+   "choices": [
+    "$7.4\\%$",
+    "$7.5\\%$",
+    "$7.6\\%$",
+    "$7.7\\%$",
+    "$7.8\\%$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "The lines with equations $ax + 2y = c$ and $bx - 3y = d$ are perpendicular. Find $a \\cdot b$.",
+   "choices": [
+    "$-6$",
+    "$-1.5$",
+    "$-1$",
+    "$1.5$",
+    "$6$"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "word-problems"
+   ],
+   "statement": "Sue owes \\$12,000 on a loan. She makes monthly payments of \\$200, and \\$10 interest is added each month to her balance. In how many months is the loan paid off?",
+   "choices": [
+    "$60$",
+    "$61$",
+    "$62$",
+    "$63$",
+    "$64$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "polynomials",
+    "algebra"
+   ],
+   "statement": "The polynomial $3x^2 + 4xy - 4y^2$ can be factored as the product of two first-degree polynomials. The sum of the two factors is",
+   "choices": [
+    "$4x$",
+    "$4y$",
+    "$2x$",
+    "$2x + 2y$",
+    "$4x + 4y$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "algebra",
+    "coordinate-geometry"
+   ],
+   "statement": "The lines with equations $2x + 3y = 6$ and $x + 2y = 5$ intersect at the point $(a, b)$. The sum $a + b$ equals",
+   "choices": [
+    "$-2$",
+    "$-1$",
+    "$0$",
+    "$1$",
+    "$2$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A domino is a $1 \\times 2$ rectangle. When 8 dominos are formed into all possible rectangles with no spaces or gaps, let $P$ be the greatest possible perimeter and $p$ the least possible perimeter. Find $P/p$.",
+   "choices": [
+    "$1.25$",
+    "$1.75$",
+    "$2$",
+    "$2.125$",
+    "$2.375$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "The 5-digit number $217xy$ has 5 different digits and a factor of 45. Find $x + y$.",
+   "choices": [
+    "$8$",
+    "$9$",
+    "$10$",
+    "$11$",
+    "$12$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "Ed and Em order sodas at the 8-12 store. After Ed drinks half of his and Em drinks $1/3$ of hers, they have the same number of ounces of soda left. If the two sodas totaled 28 oz originally, how many ounces of soda total do the two of them have left?",
+   "choices": [
+    "$12$",
+    "$15$",
+    "$16$",
+    "$18$",
+    "$20$"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "Let $S = \\{3, 5, 7, 11, 13, 17\\}$. How many elements of $S$ are factors of $2^{60} - 1$?",
+   "choices": [
+    "$2$",
+    "$3$",
+    "$4$",
+    "$5$",
+    "$6$"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "word-problems",
+    "number-theory"
+   ],
+   "statement": "On Jan. 27, postal rates rose from 46¢ to 49¢ an ounce. Vi buys some new 49¢ stamps and some 3¢ stamps to use with her leftover 46¢ stamps. If she spends \\$4.10 and buys more 49¢ stamps than 3¢ stamps, how many stamps does she buy?",
+   "choices": [
+    "$12$",
+    "$14$",
+    "$16$",
+    "$18$",
+    "it cannot be determined"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "The equation $a^4 + b^2 + c^2 = 2014$ has a unique solution in positive integers. For this solution, find $a + b + c$.",
+   "choices": [
+    "$56$",
+    "$58$",
+    "$60$",
+    "$62$",
+    "$64$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "logic",
+    "combinatorics"
+   ],
+   "statement": "Different letters are placed on the 18 faces of 3 standard 6-sided dice, one per face. Choosing 1 letter from each die, the following words can be formed: bow, boy, cot, dry, gas, hat, oat, old, one, pay, pie, red, six. Which of the following could also be spelled?",
+   "choices": [
+    "eat",
+    "rap",
+    "top",
+    "wad",
+    "won"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "number-theory",
+    "algebra"
+   ],
+   "statement": "The fraction $\\dfrac{a}{b}$ is 0.455 when rounded to 3 decimal places. If $\\dfrac{a+1}{b+1}$ is 0.467 when rounded to 3 decimal places, find $a + b$.",
+   "choices": [
+    "$63$",
+    "$64$",
+    "$65$",
+    "$66$",
+    "$67$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "algebra",
+    "number-theory"
+   ],
+   "statement": "If $ax + b = 15$ and $15x + a = b$ have the same unique solution, where $a$ and $b$ are positive integers both less than or equal to 30, find the sum of all possible values of $a$.",
+   "choices": [
+    "$28$",
+    "$43$",
+    "$58$",
+    "$78$",
+    "$93$"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "vectors-matrices",
+    "algebra"
+   ],
+   "statement": "If $(r, s, t, u, v)$ satisfies the system $$\\begin{cases} 3r + 10s + 16t + 30u + 25v = 10 \\\\ 4r + 15s + 20t + 36u + 36v = 11 \\\\ 5r + 20s + 24t + 42u + 49v = 20 \\end{cases}$$ then the value of $6r + 25s + 28t + 48u + 64v$ is",
+   "choices": [
+    "$33$",
+    "$34$",
+    "$35$",
+    "$36$",
+    "$37$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "In trapezoid $ABCD$, $\\overline{AB} \\parallel \\overline{CD}$ and $E$ is the point of intersection of $\\overline{AC}$ and $\\overline{BD}$. If the area of $\\triangle CDE$ is 75 and the area of $\\triangle ABE$ is 48, find the area of the trapezoid.",
+   "choices": [
+    "$216$",
+    "$225$",
+    "$240$",
+    "$243$",
+    "$246$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "There is a unique integer $N$ with the property that $N$ has the 4-digit representation $pqrs$ in base 7 and the 4-digit representation $qrsp$ in base 9 ($p \\ne 0$, $q \\ne 0$). Write the base-10 representation of $N$ in the corresponding blank on the answer sheet.",
+   "choices": null
+  },
+  {
+   "n": 18,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "In *approval voting*, each voter can distribute up to 5 votes among 6 candidates. For example, you could cast 3 votes for one candidate and 2 for another, or you could cast 1 vote for each of 4 candidates (and not cast your fifth vote). In how many ways can you distribute your votes?",
+   "choices": [
+    "$252$",
+    "$256$",
+    "$462$",
+    "$480$",
+    "$720$"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "polynomials"
+   ],
+   "statement": "The polynomial $P(x) = x^4 + mx^3 + nx^2 - 24x + 144$ has exactly 2 distinct integer roots, and no other roots, real or complex. Find $m + n$.",
+   "choices": [
+    "$-27$",
+    "$-25$",
+    "$-23$",
+    "$-21$",
+    "$-19$"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "A subset $S$ of $\\{1, 2, 3, \\ldots, n\\}$ is called *odd-neighbored* if for each even number $k$ in $S$, if $k < n$ then $S$ contains both $k - 1$ and $k + 1$, and if $k = n$ then $S$ contains $k - 1$. For example, $\\emptyset$, $\\{1, 3, 5, 7\\}$, $\\{1, 2, 3, 5\\}$, and $\\{3, 4, 5, 7, 8\\}$ are all odd-neighbored subsets of $\\{1, 2, 3, \\ldots, 8\\}$. Find the number of nonempty odd-neighbored subsets of $\\{1, 2, 3, \\ldots, 12\\}$.",
+   "choices": [
+    "$232$",
+    "$264$",
+    "$324$",
+    "$376$",
+    "$432$"
+   ]
+  }
+ ]
+}

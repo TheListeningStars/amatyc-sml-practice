@@ -1,0 +1,295 @@
+{
+ "id": "2011-fall",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "If the standard order of operations is reversed (that is, additions and subtractions are done first and exponentiation is done last), what is the value of $2 \\cdot 3 \\wedge 2 + 3$ ?",
+   "choices": [
+    "$21$",
+    "$24$",
+    "$39$",
+    "$486$",
+    "$7776$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "The price of a stock rose 20% on Monday, fell 10% on Tuesday, and increased by $1/6$ on Wednesday. By what percent did the price rise from Monday to Wednesday?",
+   "choices": [
+    "$24$",
+    "$26$",
+    "$28$",
+    "$30$",
+    "$32$"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "algebra",
+    "vectors-matrices"
+   ],
+   "statement": "The system of equations $ax - by = 8$ and $ax + by = 20$ has the solution $(x, y) = (2, 3)$. Find $a + b$.",
+   "choices": [
+    "$6$",
+    "$7$",
+    "$8$",
+    "$9$",
+    "$10$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "The positive integers $a$, $b$, and $c$ satisfy $a^6 + b^2 + c^2 = 2011$. Find $a + b + c$.",
+   "choices": [
+    "$50$",
+    "$51$",
+    "$52$",
+    "$53$",
+    "$54$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "combinatorics",
+    "number-theory"
+   ],
+   "statement": "Different shades of pink, red, and white can be made by mixing whole numbers of quarts of red and white paint. Shades are different if the ratio of red to white paint is different. Find the number of different possible shades that can be made from at most 4 quarts of red and 5 quarts of white paint.",
+   "choices": [
+    "$15$",
+    "$16$",
+    "$17$",
+    "$18$",
+    "$19$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "functions"
+   ],
+   "statement": "The function $y = f(x)$ has zeros $-2$ and 6. Find the zeros of $y = -3f(2 - 2x)$.",
+   "choices": [
+    "$2, -2$",
+    "$5, 1$",
+    "$4, -1$",
+    "$-1, -5$",
+    "$1, -3$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "logarithms-exponents",
+    "functions"
+   ],
+   "statement": "One population $P_1(t)$ grows exponentially at the same rate that another population $P_2(t)$ decays exponentially. If the populations were both equal to $P$ on Jan. 1, 2009, how will the populations be related on Jan. 1, 2012?",
+   "choices": [
+    "$P_1(t)P_2(t) = P$",
+    "$P_1(t)P_2(t) = P^2$",
+    "$P_1(t)/P_2(t) = P$",
+    "$P_1(t) + P_2(t) = P$",
+    "$P_1(t) + P_2(t) = 2P$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "polynomials",
+    "number-theory"
+   ],
+   "statement": "For $b > c > 0$, both $x^2 + bx + 8$ and $x^2 + cx + 8$ factor over the integers. Find $b - c$.",
+   "choices": [
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$",
+    "$5$"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "word-problems"
+   ],
+   "statement": "Ed drives from San Mateo to Atascadero, a distance of 197.5 mi. He starts driving at a constant speed and reduces his speed by 5 mph after each half hour of driving. If the trip takes 3 hr 20 min, how far did he travel in the first 2 hours?",
+   "choices": [
+    "$127$",
+    "$132$",
+    "$137$",
+    "$142$",
+    "$147$"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "Sun fills her 10 liter radiator with 20% antifreeze and 80% water. She removes some of the mixture and replaces it with antifreeze. If the radiator is now one quarter antifreeze, how many liters of the original mixture did she remove?",
+   "choices": [
+    "$0.25$",
+    "$0.375$",
+    "$0.5$",
+    "$0.625$",
+    "$0.75$"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "How many numbers with no more than six digits can be formed using only the digits 1 through 7, with no digit used more than once in a given number?",
+   "choices": [
+    "$879$",
+    "$1956$",
+    "$3619$",
+    "$5040$",
+    "$8659$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "coordinate-geometry",
+    "algebra"
+   ],
+   "statement": "The lines with equations $2x + 3y = 24$ and $3x + 2y = 6$ are symmetric with respect to a line with equation $y = mx + b$ with $m > 0$. Find $m + b$.",
+   "choices": [
+    "$5$",
+    "$12$",
+    "$17$",
+    "$19$",
+    "$20$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A square of area 45 is inscribed in circle $C$. Find the area of a square inscribed in a semicircle of circle $C$. (Inscribed means having all 4 vertices on the given figure).",
+   "choices": [
+    "$5\\sqrt{5}$",
+    "$18$",
+    "$9\\sqrt{5}$",
+    "$20$",
+    "$25$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "The left edge of a dollar bill is folded against the bottom edge to form an isosceles right triangle at the left end. The new left edge is again folded against the bottom edge. A vertex of the new triangle is the upper right corner of the bill. If a dollar bill is 157 mm long, find its width to the nearest millimeter.",
+   "choices": [
+    "$63$",
+    "$64$",
+    "$65$",
+    "$66$",
+    "$67$"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "combinatorics",
+    "sequences-series"
+   ],
+   "statement": "Five boxes are placed inside an empty box. Each of the 5 new boxes is either left empty or has 5 new boxes placed inside it. This process is repeated until there are 18 boxes containing other boxes. Find the number of empty boxes.",
+   "choices": [
+    "$73$",
+    "$75$",
+    "$77$",
+    "$79$",
+    "$81$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "logic"
+   ],
+   "statement": "Al, Bo, Cy, and Di are to receive math, physics, chem, and bio awards. Al thinks Di will win bio, Bo thinks Cy will win chem, Cy thinks Al won’t win math, and Di thinks Bo will win physics. The math and bio winners are both right, and the other winners are both wrong. Who wins the math award?",
+   "choices": [
+    "Al",
+    "Bo",
+    "Cy",
+    "Di",
+    "not enough information given"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "number-theory",
+    "combinatorics"
+   ],
+   "statement": "The digits 1 through 9 are separated into 3 groups of three digits, and the product of each group is found. Let $P$ be the largest of the 3 products. Find the smallest possible value of $P$.",
+   "choices": [
+    "$70$",
+    "$71$",
+    "$72$",
+    "$73$",
+    "$74$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "Out of 10 red chips and 15 green chips, 6 are placed into a bag, 10 into a box, and 9 into a bowl. In how many ways can the chips be distributed, if only the number of red and green chips in each container matters?",
+   "choices": [
+    "$45$",
+    "$49$",
+    "$50$",
+    "$55$",
+    "$56$"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "Square $ABCD$ has side length 72. Let $E$ be the midpoint of side $AB$, and let $\\overline{BD}$ and $\\overline{CE}$ intersect at $G$. Find the length of the altitude to $\\overline{BE}$ in $\\triangle GEB$.",
+   "choices": [
+    "$12$",
+    "$18$",
+    "$21$",
+    "$24$",
+    "$27$"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "sequences-series",
+    "polynomials"
+   ],
+   "statement": "Let $r$ be the positive real zero of $P(x) = 9x^5 + 7x^2 - 9$. The sum $r^4 + 2r^9 + \\ldots + kr^{5k-1} + \\ldots$ can be represented as the rational number $a/b$ in lowest terms. Find $a + b$.",
+   "choices": [
+    "$110$",
+    "$115$",
+    "$120$",
+    "$125$",
+    "$130$"
+   ]
+  }
+ ]
+}

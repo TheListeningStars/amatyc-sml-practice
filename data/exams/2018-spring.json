@@ -1,0 +1,306 @@
+{
+ "id": "2018-spring",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "When each is given in Fahrenheit, the sum of the high and low temperatures for Memphis, TN on a particular day is 68. What is the sum of the high and low temperatures in Memphis on the same day if each is given in Celsius? *Hint*: $F = (9/5)C + 32$",
+   "choices": [
+    "$20/9$",
+    "$36/5$",
+    "$20$",
+    "$772/9$",
+    "$772/5$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "combinatorics",
+    "logic"
+   ],
+   "statement": "Four rings of different sizes are stacked on a post, in ascending order (smallest on top). There are two other empty posts. You are able to move one ring at a time (taking the top ring from one post and moving it to another post), but you may never place a larger ring on a smaller ring. What is the minimum number of moves required to move the entire stack to the middle post?",
+   "choices": [
+    "$12$",
+    "$14$",
+    "$15$",
+    "$16$",
+    "$17$"
+   ],
+   "figure": {
+    "page": 1,
+    "box": [
+     0.64,
+     0.158,
+     0.97,
+     0.2295
+    ],
+    "erase": [
+     [
+      0.6,
+      0.2315,
+      1.0,
+      0.26
+     ]
+    ]
+   }
+  },
+  {
+   "n": 3,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "Find the sum of all of the real solutions to $\\left|4 - \\left|3 - \\left|2 - |1 - x|\\right|\\right|\\right| = 0$.",
+   "choices": [
+    "$-2$",
+    "$-1$",
+    "$0$",
+    "$1$",
+    "$2$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A regular pentagon is rotated $36^\\circ$ around its center to produce a second pentagon. The area of the intersection of the two pentagons is what fraction of the area of the original pentagon, to the nearest whole percent?",
+   "choices": [
+    "88%",
+    "89%",
+    "90%",
+    "91%",
+    "92%"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "The area of the four-sided region in the first quadrant bounded by the $x$-axis, $y$-axis, and the lines $3x + 4y = 12$ and $2y - x = 2$ is cut in half by the line $y = kx$. Find $k$.",
+   "choices": [
+    "$33/76$",
+    "$2/5$",
+    "$11/19$",
+    "$1/2$",
+    "$21/38$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "number-theory",
+    "logic"
+   ],
+   "statement": "Each letter in the equation $\\sqrt{AMATYC} = MYM$ represents a distinct non-zero decimal digit. Find $T$.",
+   "choices": [
+    "$3$",
+    "$4$",
+    "$5$",
+    "$6$",
+    "$7$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "The line $y = mx + b$ is tangent to the circle $(x + 1)^2 + (y - 1)^2 = 25$ at $(3, 4)$. Find $m + b$.",
+   "choices": [
+    "$5/12$",
+    "$5/2$",
+    "$7/2$",
+    "$20/3$",
+    "$35/4$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "complex-numbers",
+    "sequences-series"
+   ],
+   "statement": "Compute the following (where $i = \\sqrt{-1}$): $$\\sum_{n=1}^{2018} \\left(i^n + i^{-n}\\right)$$",
+   "choices": [
+    "$2$",
+    "$-2$",
+    "$0$",
+    "$i - 2$",
+    "$2 - i$"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "logic"
+   ],
+   "statement": "Three people (X, Y, Z) are in a room with you. One is a knight (knights always tell the truth), one is a knave (knaves always lie), and the other is a spy (spies may either lie or tell the truth). X says “Z is a Knight.”, Y says “Z is not a Knight.”, and Z says “I am a Knave.” Which of the following correctly identifies all three people?",
+   "choices": [
+    "X is the spy. Y is the knight. Z is the knave.",
+    "X is the spy. Y is the knave. Z is the knight.",
+    "X is the knight. Y is the knave. Z is the spy.",
+    "X is the knight. Y is the spy. Z is the knave.",
+    "X is the knave. Y is the knight. Z is the spy."
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "logarithms-exponents"
+   ],
+   "statement": "Suppose $\\log_A B = \\log_B A$ and $A > B > 1$. Which of the following is true?",
+   "choices": [
+    "$AB = 1$",
+    "$AB = e$",
+    "$AB = e^2$",
+    "$AB = 10$",
+    "This is not possible."
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "Let $M$ be the greatest integer less than 30 such that $M!(M+1)!/2$ is a perfect square. Let $N$ be the greatest integer that divides $c^4 - c^2$ for all integers $c > 1$. Find $M + N$.",
+   "choices": [
+    "$19$",
+    "$21$",
+    "$26$",
+    "$29$",
+    "$36$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "A store carries 11 different types of bagels. Late one day, they had only 3 onion bagels left and 5 plain bagels left, but still had several dozen of each of the other types. If someone wanted to purchase a dozen bagels then, how many different combinations of 12 bagels would be possible (assuming that bagels of the same type are indistinguishable)?",
+   "choices": [
+    "$293{,}710$",
+    "$594{,}880$",
+    "$594{,}946$",
+    "$646{,}184$",
+    "$646{,}646$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "probability"
+   ],
+   "statement": "Kara repeatedly flips a fair coin (the probability of flipping heads and the probability of flipping tails are both $\\frac{1}{2}$), and stops when she flips two consecutive heads. What is the expected number of flips?",
+   "choices": [
+    "$3$",
+    "$4$",
+    "$5$",
+    "$6$",
+    "$7$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "algebra",
+    "number-theory"
+   ],
+   "statement": "$S$ is a set of four distinct real numbers, with greatest element $z$. If one adds each possible pair of elements of $S$, the results are (in ascending order): 2, 3, 4, 5, $x$, $y$. Find the sum of all possible values of $z$.",
+   "choices": [
+    "$17/2$",
+    "$26/3$",
+    "$9$",
+    "$28/3$",
+    "$10$"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "functions",
+    "logarithms-exponents"
+   ],
+   "statement": "How many of the following are both a well-defined function on $\\mathbb{R}$ and also equivalent to the identity function $f(x) = x$ on $\\mathbb{R}$? $$g(x) = \\ln e^x,\\ h(x) = e^{\\ln(x)},\\ k(x) = \\sqrt{x^2},\\ m(x) = \\sqrt[3]{x^3},\\ n(x) = 1 + \\dfrac{x^2 - 1}{x + 1},\\ p(x) = \\sin(\\arcsin x),\\ q(x) = \\arctan(\\tan x),\\ r(x) = \\pm|x|,\\ s(x) = (0.\\overline{9})x$$",
+   "choices": [
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$",
+    "$5$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "coordinate-geometry",
+    "functions"
+   ],
+   "statement": "The graph of the equation $y = x^2 - 2kx + k$ is a parabola for any real number $k$. If the vertex of this parabola occurs at the point $(a, b)$, find the greatest possible value of $b$.",
+   "choices": [
+    "$0$",
+    "$1/8$",
+    "$1/4$",
+    "$1/2$",
+    "$1$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "The three digit decimal number $abc$ is equivalent to the three digit number $cba$ in hexadecimal (base 16). Find $a + b + c$.",
+   "choices": [
+    "$9$",
+    "$11$",
+    "$13$",
+    "$15$",
+    "$17$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "sequences-series",
+    "number-theory"
+   ],
+   "statement": "A collection of identical spheres can be formed into a “square” pyramid (a pyramid with a base (bottom layer) made up of $n \\times n$ spheres whose next layer is made up of $(n-1) \\times (n-1)$ spheres, continuing this way up to the top layer of 1 sphere). The same collection of spheres can also be formed into a single-layer $k \\times k$ “square” where $k < 100$. Find the largest possible value of $k$ for such a collection of spheres and record it on your answer sheet.",
+   "choices": null
+  },
+  {
+   "n": 19,
+   "topics": [
+    "combinatorics",
+    "algebra"
+   ],
+   "statement": "Consider a set of positive integers less than 100 such that no two elements have a sum of 100. Let $M$ be the maximum number of distinct elements that such a set can contain. Let $C$ be the coefficient of $x^5$ in the expansion of $(x - 0.5)^8$. Find $|C - M|$.",
+   "choices": [
+    "$42$",
+    "$43$",
+    "$44$",
+    "$56$",
+    "$57$"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "polynomials",
+    "functions"
+   ],
+   "statement": "Suppose that $f(x) = \\dfrac{x^3 + x^2 + cx + d}{x + 2}$ is equivalent to $g(x) = ax^2 + bx + 4$ on its domain. Find $f(3)$.",
+   "choices": [
+    "$38/5$",
+    "$9$",
+    "$10$",
+    "$54/5$",
+    "$12$"
+   ]
+  }
+ ]
+}

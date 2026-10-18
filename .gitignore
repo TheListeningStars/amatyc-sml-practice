@@ -1,0 +1,10 @@
+.DS_Store
+app/node_modules/
+app/dist/
+# downloaded sources and page renders: regenerate with `python3 pipeline/fetch.py`
+data/raw/
+data/pages/
+data/text/
+data/review/crops/
+data/review/work/
+__pycache__/

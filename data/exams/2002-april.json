@@ -1,0 +1,302 @@
+{
+ "id": "2002-april",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "logarithms-exponents"
+   ],
+   "statement": "If $\\log_{36} 9 + \\log_{36} 24 = x$, what is the value of $x$?",
+   "choices": [
+    "$1$",
+    "$1.5$",
+    "$2$",
+    "$2.5$",
+    "$3$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "The measure of each interior angle in a regular polygon with 30 sides is",
+   "choices": [
+    "$160^\\circ$",
+    "$162^\\circ$",
+    "$165^\\circ$",
+    "$168^\\circ$",
+    "$170^\\circ$"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "If the solution of the system $\\begin{cases} 2x - y = 9 \\\\ 3x + 2y = 10 \\end{cases}$ is the ordered pair $(p,q)$, the system $\\begin{cases} 2x + y = 9 \\\\ 3x - 2y = 10 \\end{cases}$ has what solution?",
+   "choices": [
+    "$(p,-q)$",
+    "$(-p,q)$",
+    "$(-p,-q)$",
+    "$(q,-p)$",
+    "$(-q,p)$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "Casey runs $y$ yards on a circular track of radius $r$ yards. Kelly runs the same distance on a larger circular track of radius $R$ yards. If $c$ and $k$ are the angles in degrees formed by the centers of the tracks and Casey's and Kelly's runs, respectively, what is the ratio of $c$ to $k$?",
+   "choices": [
+    "$R - r$",
+    "$\\dfrac{r}{R}$",
+    "$\\dfrac{R}{r}$",
+    "$\\dfrac{r^2}{R^2}$",
+    "$\\dfrac{R^2}{r^2}$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "One angle of an isosceles triangle measures four times the measure of another angle of the triangle. Which of the following could **NOT** be the measure of an angle of the triangle?",
+   "choices": [
+    "$20^\\circ$",
+    "$30^\\circ$",
+    "$40^\\circ$",
+    "$80^\\circ$",
+    "$120^\\circ$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "number-theory",
+    "algebra"
+   ],
+   "statement": "In how many different ways can $\\frac{2}{15}$ be represented as $\\frac{1}{a} + \\frac{1}{b}$, where $a$ and $b$ are positive integers with $a > b$?",
+   "choices": [
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$",
+    "more than $4$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "Suppose $x$ and $y$ are integers. Let $k$ be the smallest positive integer for which $36x + 21y = k$ has solutions. What is the smallest positive value of $y$ among all such solutions?",
+   "choices": [
+    "$1$",
+    "$3$",
+    "$5$",
+    "$7$",
+    "$9$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "trigonometry",
+    "functions"
+   ],
+   "statement": "Which of the following transformations changes the graph of $y = \\tan x$ into the graph of $y = \\cot x$?\n\n$T1$ = clockwise rotation through $\\pi$ radians, $T2$ = reflection in the $x$-axis, $T3$ = translation $\\pi/2$ units to the right",
+   "choices": [
+    "$T1$",
+    "$T1$ followed by $T3$",
+    "$T2$",
+    "$T2$ followed by $T3$",
+    "$T3$"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "trigonometry",
+    "functions"
+   ],
+   "statement": "How many $x$-intercepts does the graph of the function $T(x) = \\cos\\dfrac{1}{x^2}$ have on the interval $[0.05, 1]$ ?",
+   "choices": [
+    "$3$",
+    "$15$",
+    "$31$",
+    "$63$",
+    "$127$"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "At certain times of the day, the hour and minute hands of a clock form an angle whose measure in degrees is a whole number which is exactly half the number of minutes indicated by the minute hand. At how many different times after midnight and before the following noon does this occur?",
+   "choices": [
+    "5 or 6",
+    "7 or 8",
+    "9 or 10",
+    "11 or 12",
+    "13 or 14"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "logic",
+    "number-theory"
+   ],
+   "statement": "If each letter of the equation $AM \\cdot A = TYC$ is replaced by a decimal digit so that different letters represent different digits, how many solutions does the resulting equation have when $T = 6$?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "word-problems",
+    "number-theory"
+   ],
+   "statement": "Juan starts a new job for which he receives a paycheck every other Monday including holidays, with his first paycheck given on January 7, 2002. In what year does Juan first receive 27 paychecks during the year?",
+   "choices": [
+    "2005",
+    "2007",
+    "2008",
+    "2010",
+    "it will never happen"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "vectors-matrices"
+   ],
+   "statement": "The matrix $M = \\begin{bmatrix} s & t \\\\ u & v \\end{bmatrix}$ has the property that $M^2 = \\begin{bmatrix} 0 & 0 \\\\ 0 & 0 \\end{bmatrix}$. If $t = 2$ and $u = -4$, find $|s - v|$.",
+   "choices": [
+    "$0$",
+    "$4$",
+    "$4\\sqrt{2}$",
+    "$8$",
+    "$8\\sqrt{2}$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "Let $N = abcd$, where $a$, $b$, $c$, and $d$ are four different prime numbers. The 16 positive integer factors of $N$ can be formed into a $4 \\times 4$ square so that the products of the entries in every row, column, or long diagonal is the same. If some of the values in this square are shown at the right, the value of $\\#$ is",
+   "choices": [
+    "$22$",
+    "$26$",
+    "$11$",
+    "$13$",
+    "$14$"
+   ],
+   "figure": {
+    "page": 2,
+    "box": [
+     0.72,
+     0.248,
+     0.955,
+     0.335
+    ]
+   }
+  },
+  {
+   "n": 15,
+   "topics": [
+    "probability",
+    "polynomials"
+   ],
+   "statement": "If two integers $b$ and $c$ are selected independently and randomly from the interval $[-10, 10]$, which of the following is closest to the probability that $x^2 + bx + c$ factors into $(x - r)(x - s)$ with $r$ and $s$ integers?",
+   "choices": [
+    "$0.15$",
+    "$0.17$",
+    "$0.19$",
+    "$0.25$",
+    "$0.32$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "functions",
+    "algebra"
+   ],
+   "statement": "Ms. Pham has her students graph $y = ax^2 + bx + c$ ($a$, $b$, $c$ all different, $a \\ne 0$). Al mistakenly graphs $y = bx^2 + ax + c$, and Ann mistakenly graphs $y = cx^2 + bx + a$. Which of the following is **NOT** the $x$-coordinate of a point that lies on at least two of these three graphs?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$-1$",
+    "$\\dfrac{c - a}{b - c}$",
+    "$\\dfrac{a - c}{b - c}$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "sequences-series"
+   ],
+   "statement": "Define a sequence $s_n$ by the conditions $s_1 = 3$, $s_2 = 4$, and $s_{n+1} = s_{n-1} + s_n$ ($n \\ge 2$). Find $s_{2002}^2 - s_{2001}s_{2003}$.",
+   "choices": [
+    "$-5$",
+    "$-1$",
+    "$1$",
+    "$3$",
+    "$5$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "functions"
+   ],
+   "statement": "Let $f(x) = |x + 0.5| - |x - 0.5|$ and $h(x) = \\dfrac{x}{|x|}$. If $g(x) = f(f(f(x)))$, what is the length of the interval on which $g(x) - h(x) \\ne 0$?",
+   "choices": [
+    "$\\frac{1}{8}$",
+    "$\\frac{1}{4}$",
+    "$1$",
+    "$4$",
+    "$\\infty$"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "polynomials"
+   ],
+   "statement": "Let $p$, $q$, and $r$ be the roots (real or complex) of $k(x) = x^3 - 5x^2 + 4x + 8$. Find the value of $\\frac{1}{p} + \\frac{1}{q} + \\frac{1}{r}$.",
+   "choices": [
+    "$-\\frac{1}{2}$",
+    "$-1$",
+    "$1$",
+    "$\\frac{1}{2}$",
+    "$2$"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "polynomials"
+   ],
+   "statement": "Let $P(x) = x^5 + ax^4 + 2x^3 + (a+1)x^2 + (a+2)x - 1$ and $Q(x) = x^2 + ax + 1$. For what value of $a$ do $P(x)$ and $Q(x)$ have a common root?",
+   "choices": [
+    "$-\\frac{5}{2}$",
+    "$-\\frac{3}{2}$",
+    "$-1$",
+    "$1$",
+    "no value of $a$"
+   ]
+  }
+ ]
+}

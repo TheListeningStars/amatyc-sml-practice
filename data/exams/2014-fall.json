@@ -1,0 +1,297 @@
+{
+ "id": "2014-fall",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "word-problems"
+   ],
+   "statement": "Jan makes a 10% down payment on a used car and pays off the balance in quarterly payments of \\$540 for one year. Find the cost of the car.",
+   "choices": [
+    "$\\$2400$",
+    "$\\$2500$",
+    "$\\$2700$",
+    "$\\$2750$",
+    "$\\$3000$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "algebra",
+    "coordinate-geometry"
+   ],
+   "statement": "The lines with equations $y = mx + 1$ and $y = 1 - mx$, $m \\ne 0$, intersect at $(r, s)$. Find the value of $r + s$.",
+   "choices": [
+    "$-2$",
+    "$-1$",
+    "$0$",
+    "$1$",
+    "$2$"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "word-problems"
+   ],
+   "statement": "A town has 3.75 people per family and 2.5 TV’s per family. Find the number of TV’s per person.",
+   "choices": [
+    "$3/5$",
+    "$2/3$",
+    "$3/4$",
+    "$4/5$",
+    "$5/6$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "probability"
+   ],
+   "statement": "Which of the following five numbers is the mean (average) of the other four numbers?",
+   "choices": [
+    "$37$",
+    "$49$",
+    "$51$",
+    "$53$",
+    "$75$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "coordinate-geometry",
+    "algebra"
+   ],
+   "statement": "The sum of the slopes of the perpendicular lines with equations $y = mx$ and $y = Mx$ equals $9/20$. Find $|M - m|$.",
+   "choices": [
+    "$\\dfrac{29}{20}$",
+    "$\\dfrac{33}{20}$",
+    "$\\dfrac{37}{20}$",
+    "$\\dfrac{41}{20}$",
+    "$\\dfrac{43}{20}$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "number-theory",
+    "algebra"
+   ],
+   "statement": "The only integer pair with a difference equal to the quotient is $(4, 2)$. Find the sum of the only pair of positive fractions with denominator 4 in lowest terms with this property.",
+   "choices": [
+    "$6.5$",
+    "$7$",
+    "$7.5$",
+    "$8$",
+    "$8.5$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "A print shop takes 2.4 hr to run a job on the X10 and X5 copiers. The same job takes 3 hr on the X10 and X2 copiers, and 4 hr on the X5 and X2 copiers. How many hours would the job take running on all three machines?",
+   "choices": [
+    "$1.2$",
+    "$1.5$",
+    "$1.6$",
+    "$1.8$",
+    "$2.0$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "logic",
+    "number-theory"
+   ],
+   "statement": "In the equation AMA + TYC = AWAY, identical letters are replaced by identical digits and different letters are replaced by different digits 0-9 to produce one 4-digit and two 3-digit numbers. If leading digits cannot be 0, how many different values of Y are possible?",
+   "choices": [
+    "$3$",
+    "$4$",
+    "$5$",
+    "$6$",
+    "$7$"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "polynomials",
+    "algebra"
+   ],
+   "statement": "How many irrational solutions does the equation $18x^4 - 11x^2 + 1 = 0$ have?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "probability"
+   ],
+   "statement": "You win a certain game by either pushing a button once and getting a green light, or pushing the button twice and getting either 2 green lights or exactly one red light. The probability $p > 0$ of a green light on a single push is constant and three times the probability of a red light. Find the value of $p$ for which the probability of winning is the same for either the one-push or two-push option.",
+   "choices": [
+    "$\\dfrac{3}{8}$",
+    "$\\dfrac{3}{7}$",
+    "$\\dfrac{2}{5}$",
+    "$\\dfrac{1}{2}$",
+    "$\\dfrac{3}{5}$"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "functions",
+    "algebra"
+   ],
+   "statement": "For the function $f(x)$, $f(1) = 3$. Also, $f(x) + f(y) = f\\left(\\dfrac{x+y}{2}\\right) f\\left(\\dfrac{x-y}{2}\\right)$ for all real numbers $x$ and $y$. Write the value of $f(6)$ in the corresponding blank on the answer sheet.",
+   "choices": null
+  },
+  {
+   "n": 12,
+   "topics": [
+    "trigonometry"
+   ],
+   "statement": "Find $(\\sin 15^\\circ)(2\\cos 15^\\circ)(2\\cos 30^\\circ)(2\\cos 60^\\circ)\\ldots(2\\cos 960^\\circ)(2\\cos 1920^\\circ)$.",
+   "choices": [
+    "$-\\dfrac{\\sqrt{3}}{2}$",
+    "$-\\dfrac{1}{2}$",
+    "$\\dfrac{1}{2}$",
+    "$\\dfrac{\\sqrt{3}}{2}$",
+    "$1$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "The equation $a^6 + b^2 + c^2 = 2014$ has only one solution in positive integers for which $b$ is prime. Find $a + b + c$.",
+   "choices": [
+    "$50$",
+    "$52$",
+    "$54$",
+    "$56$",
+    "$58$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "geometry",
+    "combinatorics"
+   ],
+   "statement": "A closed curve is a curve that begins and ends at the same point. A closed curve which passes through point $P$ twice divides the plane into 3 regions. If a closed curve passes through each of the 20 points $P_1, P_2, \\ldots P_{20}$ exactly twice and each of the 12 points $P_{21}, P_{22}, \\ldots P_{32}$ exactly three times (and passes through no other points multiple times), into how many regions does the curve divide the plane?",
+   "choices": [
+    "$32$",
+    "$34$",
+    "$44$",
+    "$46$",
+    "$48$"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "A domino is a $1 \\times 2$ rectangle. Find the number of different ways 8 identical dominos can be arranged to form a $4 \\times 4$ square (assume that arrangements which are rotations or reflections of each other are different).",
+   "choices": [
+    "$24$",
+    "$32$",
+    "$36$",
+    "$40$",
+    "$48$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "To determine divisibility by 7, subtract twice the last digit from the number formed by removing the last digit; the result is divisible by 7 exactly when the original number is. If you subtract $k$ times the last digit instead of twice the last digit, for what value of $k$ does this determine divisibility by 13?",
+   "choices": [
+    "$5$",
+    "$6$",
+    "$7$",
+    "$8$",
+    "$9$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "Given the points $A(0, 0)$, $B(3, 9)$, $C(9, 3)$, and $D(6, 6)$, find the area of the region in the first quadrant consisting of those points closer to $A$ than to any of the other 3 points.",
+   "choices": [
+    "$14.5$",
+    "$15.25$",
+    "$16.25$",
+    "$16.5$",
+    "$18.75$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "Square $ABCD$, shown at the right, has $AB = 6$. If $AE = BE = EF = DF = CF$, find $EF$.",
+   "choices": [
+    "$\\dfrac{6 + \\sqrt{15}}{3}$",
+    "$2\\sqrt{7} - 2$",
+    "$\\dfrac{79}{24}$",
+    "$2\\left(\\sqrt{2} + \\sqrt{3}\\right) - 3$",
+    "$\\dfrac{8 - \\sqrt{2}}{2}$"
+   ],
+   "figure": {
+    "page": 2,
+    "box": [
+     0.765,
+     0.6,
+     0.935,
+     0.725
+    ]
+   }
+  },
+  {
+   "n": 19,
+   "topics": [
+    "sequences-series"
+   ],
+   "statement": "The sequence $\\{a_n\\}$ satisfies $a_n = a_{n-1} + a_{n-3}$ for all $n \\ge 4$. If $a_1 = 3$ and $a_6 = 30$, find $a_8$.",
+   "choices": [
+    "$63$",
+    "$66$",
+    "$69$",
+    "$72$",
+    "$75$"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "polynomials",
+    "algebra"
+   ],
+   "statement": "For rational numbers $A$, $B$, $C$, let $P(x) = Ax^5 + Bx^4 + Cx^3 + Cx^2 + Bx + A$. If $\\sqrt{3} - 1$ is one solution of the equation $P(x) = 0$, which of the following is also a solution of $P(x) = 0$?",
+   "choices": [
+    "$1 - \\sqrt{3}$",
+    "$\\dfrac{1 + \\sqrt{3}}{2}$",
+    "$-1$",
+    "both A and C",
+    "both B and C"
+   ]
+  }
+ ]
+}

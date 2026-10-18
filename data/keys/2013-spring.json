@@ -1,0 +1,7 @@
+{
+  "source": "AMATYC official answer key",
+  "answers": {"1": ["D"], "2": ["D"], "3": ["E"], "4": ["C"], "5": ["B"], "6": ["B"], "7": ["B"], "8": ["A"], "9": ["B"], "10": ["6.175"],
+    "11": ["A"], "12": ["C"], "13": ["B"], "14": [], "15": ["E"], "16": ["C"], "17": ["B"], "18": ["B"], "19": ["D"], "20": ["D"]},
+  "notes": {"10": "Key: 6.175 (free response); Local Corrector column: \"C or B\"", "14": "Student's Responses column: \"Correct For All Students\"; Local Corrector column: \"C\""},
+  "voided": ["14"]
+}

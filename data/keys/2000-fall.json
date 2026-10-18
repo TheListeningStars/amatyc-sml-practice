@@ -1,0 +1,6 @@
+{
+  "source": "SML official short solutions (November 2000, Test #1)",
+  "answers": {"1": ["C"], "2": ["B"], "3": ["B"], "4": ["D"], "5": ["E"], "6": ["D"], "7": ["B"], "8": ["E"], "9": ["D"], "10": ["E"], "11": ["A"], "12": ["A"], "13": ["D"], "14": ["D"], "15": ["C"], "16": ["E"], "17": ["B"], "18": [], "19": ["E"], "20": ["C", "D"]},
+  "notes": {"18": "Key marks X: \"Due to a misprint, this was not one of the choices, so this question was not graded.\" (key computes about 65 mph)", "20": "Key accepts C or D"},
+  "voided": ["18"]
+}

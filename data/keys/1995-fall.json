@@ -1,0 +1,69 @@
+{
+ "source": "Official key (LaTeX with correct-answer markers)",
+ "answers": {
+  "1": [
+   "E"
+  ],
+  "2": [
+   "C"
+  ],
+  "3": [
+   "A"
+  ],
+  "4": [
+   "B"
+  ],
+  "5": [
+   "E"
+  ],
+  "6": [
+   "C"
+  ],
+  "7": [
+   "C"
+  ],
+  "8": [
+   "E"
+  ],
+  "9": [
+   "B"
+  ],
+  "10": [
+   "A"
+  ],
+  "11": [
+   "D"
+  ],
+  "12": [
+   "B"
+  ],
+  "13": [
+   "D"
+  ],
+  "14": [
+   "E"
+  ],
+  "15": [
+   "E"
+  ],
+  "16": [],
+  "17": [
+   "D"
+  ],
+  "18": [
+   "D"
+  ],
+  "19": [],
+  "20": [
+   "A"
+  ]
+ },
+ "notes": {
+  "16": "No correct-answer marker appears on any choice of this problem in key.tex.",
+  "19": "No correct-answer marker appears on any choice of this problem in key.tex."
+ },
+ "voided": [
+  "16",
+  "19"
+ ]
+}

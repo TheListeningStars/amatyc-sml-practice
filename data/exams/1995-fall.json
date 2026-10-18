@@ -1,0 +1,319 @@
+{
+ "id": "1995-fall",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "functions"
+   ],
+   "statement": "The domain of $f(x) = \\sqrt{\\dfrac{x}{25-x^2}}$ is",
+   "choices": [
+    "$[0,5)$",
+    "$(-5,5)$",
+    "$(-\\infty,5)$",
+    "$[0,\\infty)$",
+    "$(-\\infty,-5)\\cup[0,5)$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "functions"
+   ],
+   "statement": "If $f(x) = 3x + 5$, then $f^{-1}(2) =$",
+   "choices": [
+    "$-\\dfrac{5}{3}$",
+    "$-\\dfrac{5}{6}$",
+    "$-1$",
+    "$11$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "If $3x + 2y = r$ and $5x - 3y = s$, then $4x + 3y =$",
+   "choices": [
+    "$\\dfrac{27r-s}{19}$",
+    "$18r-12s$",
+    "$\\dfrac{4r-3s}{5}$",
+    "$\\dfrac{11r+2s}{6}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "sequences-series"
+   ],
+   "statement": "$$\\sum_{k=1}^{\\infty}\\left(\\dfrac{2}{7}\\right)^{2k-1}$$",
+   "choices": [
+    "$\\dfrac{4}{49}$",
+    "$\\dfrac{14}{45}$",
+    "$\\dfrac{2}{5}$",
+    "$7$",
+    "$\\infty$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "There are 360 ways to arrange the six letters A, A, C, M, T, Y into six-letter “words”. (The two A’s are indistinguishable.) If these are placed in alphabetical order, in what position would “AMATYC” fall?",
+   "choices": [
+    "48th",
+    "52nd",
+    "54th",
+    "56th",
+    "none of these"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "probability",
+    "number-theory"
+   ],
+   "statement": "The mean of five positive integers is 10 and the (unique) mode is 20. The number of possible values for the median is",
+   "choices": [
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$",
+    "$5$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "If the points $(1,1)$, $(4,5)$, and $(9,y)$ lie on a straight line, then $y =$",
+   "choices": [
+    "$11$",
+    "$12$",
+    "$\\dfrac{35}{3}$",
+    "$\\dfrac{37}{3}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "functions"
+   ],
+   "statement": "Questions 8-10 refer to a function $f$, whose graph is shown below and whose domain is $[-6,6]$.\n\nHow many solutions does the equation $f(x) + 3 = 0$ have?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$"
+   ],
+   "figure": {
+    "page": 1,
+    "box": [
+     0.19,
+     0.575,
+     0.79,
+     0.795
+    ]
+   }
+  },
+  {
+   "n": 9,
+   "topics": [
+    "functions"
+   ],
+   "statement": "Questions 8-10 refer to a function $f$, whose graph is shown below and whose domain is $[-6,6]$.\n\nSolve for $x$: $f(2x+1) = 5$",
+   "choices": [
+    "$2$",
+    "$2.5$",
+    "$6$",
+    "There is one solution, but it is none of these.",
+    "There is more than one solution."
+   ],
+   "figure": {
+    "page": 1,
+    "box": [
+     0.19,
+     0.575,
+     0.79,
+     0.795
+    ]
+   }
+  },
+  {
+   "n": 10,
+   "topics": [
+    "functions"
+   ],
+   "statement": "Questions 8-10 refer to a function $f$, whose graph is shown below and whose domain is $[-6,6]$.\n\nSolve for $x$: $f(x) = x + 2$",
+   "choices": [
+    "$-5$",
+    "$-2$",
+    "$0$",
+    "There is one solution, but it is none of these.",
+    "There is more than one solution."
+   ],
+   "figure": {
+    "page": 1,
+    "box": [
+     0.19,
+     0.575,
+     0.79,
+     0.795
+    ]
+   }
+  },
+  {
+   "n": 11,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "Isosceles right triangles are cut from the four corners of a square piece of paper $s$ inches by $s$ inches so that a regular octagon is produced. The length of the legs of the isosceles right triangles, in inches, is",
+   "choices": [
+    "$\\dfrac{s}{3}$",
+    "$\\dfrac{5}{\\sqrt{2}}$",
+    "$\\dfrac{s}{1+\\sqrt{2}}$",
+    "$\\dfrac{s}{2+\\sqrt{2}}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "probability",
+    "algebra"
+   ],
+   "statement": "The probability that a randomly chosen integer from the interval $(-2.5, 7.5)$ satisfies the inequality $x + 2 < x^2$ is",
+   "choices": [
+    "$0.5$",
+    "$0.6$",
+    "$0.7$",
+    "$0.8$",
+    "$0.9$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A right triangle has perimeter $k$ units, area $k$ square units, and one leg of length $\\sqrt{k}$ units. $k =$",
+   "choices": [
+    "$13+8\\sqrt{3}$",
+    "$19\\sqrt{2}$",
+    "$27$",
+    "$14+6\\sqrt{5}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "functions",
+    "polynomials"
+   ],
+   "statement": "An asymptote of $2x^3 - (y+3)x^2 + 2(x-1) - y = 0$ is",
+   "choices": [
+    "$x=-1$",
+    "$x=1$",
+    "$y=2$",
+    "$y=-3$",
+    "None of these are asymptotes."
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "polynomials"
+   ],
+   "statement": "If the two zeros of a quadratic function $P$ are $z_1$ and $z_2$ and $P(0) = k$, then $P(r) =$",
+   "choices": [
+    "$k(r-z_1)(r-z_2)$",
+    "$z_1r^2+z_2r+k$",
+    "$r^2+(z_1+z_2)r+k$",
+    "$r^2-(z_1+z_2)r+k$",
+    "$\\dfrac{k}{z_1z_2}(r-z_1)(r-z_2)$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "geometry",
+    "trigonometry"
+   ],
+   "statement": "Four points, $A$, $B$, $C$, and $D$ are situated in a plane such that $\\overline{AB} = 4$, $\\overline{BC} = 3$, $\\overline{CD} = 2$, and $\\overline{DA} = 1$. The greatest possible value for the measure $\\angle ABC$ is",
+   "choices": [
+    "$\\dfrac{\\pi}{3}$",
+    "$\\dfrac{\\pi}{4}$",
+    "$\\tan^{-1}\\left(\\dfrac{3}{4}\\right)$",
+    "$\\tan^{-1}\\left(\\dfrac{4}{3}\\right)$",
+    "$\\cos^{-1}\\left(\\dfrac{2}{3}\\right)$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "algebra",
+    "sequences-series"
+   ],
+   "statement": "$\\sqrt{9+\\sqrt{9+\\sqrt{9+\\sqrt{9+\\ldots}}}} =$",
+   "choices": [
+    "$\\pi$",
+    "$\\dfrac{13}{4}$",
+    "$\\sqrt{10}$",
+    "$\\dfrac{1+\\sqrt{37}}{2}$",
+    "$\\dfrac{3+\\sqrt{10}}{2}$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "sequences-series",
+    "number-theory"
+   ],
+   "statement": "The sum of $n$ consecutive odd whole numbers is 1477, where $n > 1$. What is the least of these $n$ whole numbers?",
+   "choices": [
+    "$53$",
+    "$91$",
+    "$137$",
+    "$205$",
+    "There is not enough information given."
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "$\\triangle ABC$ has $\\angle C = 90^\\circ$ and $\\overline{AC} = 5$. Point $D$ is located on $BC$ so that $\\overline{CD} = 1$ and $\\angle DAC = \\angle DAB$. Find $\\overline{BD}$.",
+   "choices": [
+    "$1$",
+    "$\\dfrac{13}{12}$",
+    "$\\dfrac{11}{10}$",
+    "$\\dfrac{7}{6}$",
+    "$\\dfrac{6}{5}$"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "probability",
+    "combinatorics"
+   ],
+   "statement": "A certain kind of coated candy bits comes in $n$ colors. The probability that a randomly chosen bit has color $c_i$ is $p_i$, where $\\sum_{i=1}^{n} p_i = 1$. If $n$ bits are chosen at random from a very large vat of candy bits, what is the probability that all $n$ colors are represented in the sample?",
+   "choices": [
+    "$n!\\prod_{i=1}^{n} p_i$",
+    "$\\sum_{i=1}^{n} c_i p_i$",
+    "$\\prod_{i=1}^{n} c_i p_i$",
+    "$\\sum_{i=1}^{n} p_i^{n}$",
+    "$\\sum_{i=1}^{n}\\sum_{j=1}^{n} p_i^{n-1}p_j$"
+   ]
+  }
+ ]
+}

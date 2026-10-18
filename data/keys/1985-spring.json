@@ -1,0 +1,87 @@
+{
+ "source": "Official key document (exam reprinted with worked answers; no answer letters are printed, so letters were read off the stated final results)",
+ "answers": {
+  "1": [
+   "D"
+  ],
+  "2": [
+   "E"
+  ],
+  "3": [
+   "C"
+  ],
+  "4": [
+   "A"
+  ],
+  "5": [
+   "D"
+  ],
+  "6": [
+   "A"
+  ],
+  "7": [
+   "D"
+  ],
+  "8": [
+   "C"
+  ],
+  "9": [
+   "B"
+  ],
+  "10": [
+   "E"
+  ],
+  "11": [
+   "A"
+  ],
+  "12": [
+   "E"
+  ],
+  "13": [],
+  "14": [
+   "D"
+  ],
+  "15": [
+   "D"
+  ],
+  "16": [
+   "E"
+  ],
+  "17": [
+   "B"
+  ],
+  "18": [
+   "B"
+  ],
+  "19": [
+   "\\frac{8\\sqrt{3}+9}{37}"
+  ],
+  "20": []
+ },
+ "notes": {
+  "5": "The archived key PDF gives no final answer here; answer D is from the correct-answer marker in the original LaTeX of the exam (Marta Hidegkuti archive).",
+  "8": "Key PDF prints no letter; its worked solution ends 'The possible values are 2 and 11.' Letter C is the choice matching 11, the larger of the two values the key lists.",
+  "13": "Key PDF gives no answer or solution for this problem (figure only).",
+  "14": "Key PDF prints no letter; its solution rules out all but D ('we only need to consider C and D... we also rule out C').",
+  "15": "The archived key PDF gives no final answer here; answer D is from the correct-answer marker in the original LaTeX of the exam (Marta Hidegkuti archive).",
+  "16": "Key PDF prints no letter; its worked solution concludes '61 is the smallest such number', which is not among A-D, so E (none of these).",
+  "17": "Key PDF prints no letter; its worked solution ends 4/3 (1/a + 1/b) = 1, i.e. 4/3 hr, which is choice B.",
+  "18": "The archived key PDF gives no final answer here; answer B is from the correct-answer marker in the original LaTeX of the exam (Marta Hidegkuti archive).",
+  "19": "Free response (no choices). Key: AT = sqrt(12) and so (3+sqrt(12))/(sqrt(12)+7) = (2sqrt(3)+3)/(2sqrt(3)+7) = (8sqrt(3)+9)/37.",
+  "20": "Free response (no choices). Key PDF gives no answer; it shows only an unfinished start '1/3 (1/9 + 1/27 + 1/81 + ... ) + ()'.",
+  "9": "Key PDF prints no letter; its worked solution ends 1/3 + (2/3)i, so the real part is 1/3 (choice B).",
+  "1": "Key PDF prints no letter; its solution ends 7x.",
+  "2": "Key PDF prints no letter; its solution ends 4(a+b).",
+  "3": "Key PDF prints no letter; its solution ends b = sqrt(2).",
+  "4": "Key PDF prints no letter; its solution says A is clearly false.",
+  "6": "Key PDF prints no letter; its solution ends 6.",
+  "7": "Key PDF prints no letter; its solution ends x = 16.",
+  "10": "Key PDF prints no letter; its solution ends x = 5/3.",
+  "11": "Key PDF prints no letter; its solution gives y - 3 = +/- (1/2)(x - 8).",
+  "12": "Key PDF prints no letter; its solution says the statement is true for x = 360 degrees."
+ },
+ "voided": [
+  "13",
+  "20"
+ ]
+}

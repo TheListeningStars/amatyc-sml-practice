@@ -1,0 +1,300 @@
+{
+ "id": "1999-spring",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "word-problems",
+    "sequences-series"
+   ],
+   "statement": "Two bits, four bits, six bits, a dollar,\n\nAll for the home team, stand up an holler.\n\nIf \"dollar\" completes an arithmetic sequence in this popular cheer, what is the value of a bit?",
+   "choices": [
+    "\\$0.02",
+    "\\$0.05",
+    "\\$0.10",
+    "\\$0.125",
+    "0.25"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "word-problems",
+    "number-theory"
+   ],
+   "statement": "What is the minimum number of U.S. coins* required so that change could be provided for any purchase under \\$1.00 when a \\$ 1 bill is presented for payment? *pennies, nickels, dimes, quarters, half-dollars",
+   "choices": [
+    "7",
+    "9",
+    "11",
+    "12",
+    "none of these"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "coordinate-geometry",
+    "geometry"
+   ],
+   "statement": "Find $m$ so that the area of the triangle bounded by $y = 0$, $x = 10$, and $y = mx$ is 3.",
+   "choices": [
+    "$0.06$",
+    "$0.08$",
+    "$0.09$",
+    "$0.10$",
+    "$0.12$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "word-problems",
+    "geometry"
+   ],
+   "statement": "A flagpole and a nearby tree simultaneously cast shadows of length 52 ft and 88 ft respectively. If the flagpole is known to be 39 ft high, how tall is the tree?",
+   "choices": [
+    "60 ft",
+    "66 ft",
+    "70 ft",
+    "75 ft",
+    "112 ft"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "number-theory",
+    "probability"
+   ],
+   "statement": "The product of four positive integers is equal to their sum. What is the median of the four numbers?",
+   "choices": [
+    "$1.5$",
+    "$2$",
+    "$3$",
+    "$4$",
+    "$8$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "What is the remainder when $1999^{1999}$ is divided by 10?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$5$",
+    "$8$",
+    "$9$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "Lines $L_1$ and $L_2$ each pass through $(3,4)$. $L_2$ has positive slope $m$, and $L_1$ has slope $2m$. $L_2$ crosses the $y$-axis $k$ units above the point where $L_1$ crosses the $y$-axis. Find $k$.",
+   "choices": [
+    "$m$",
+    "$3$",
+    "$m+3$",
+    "$3m+4$",
+    "$3m$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "word-problems",
+    "geometry"
+   ],
+   "statement": "If the diameter of each tire is 26 inches, approximately how many revolutions per second are made by each wheel when the car's speed is 60 miles per hour?",
+   "choices": [
+    "$6$",
+    "$7$",
+    "$12$",
+    "$13$",
+    "$24$"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "algebra",
+    "vectors-matrices"
+   ],
+   "statement": "If $x + y + z = k$, $x + 2y + 3z = 2k$, and $x + 4y + 6z = 3k$, then $3x + 6y + 2z =$",
+   "choices": [
+    "$-k$",
+    "$-\\dfrac{2}{3}k$",
+    "$\\dfrac{4}{7}k$",
+    "$\\dfrac{13}{11}k$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "polynomials",
+    "functions"
+   ],
+   "statement": "Suppose $f$ is a quadratic function with zeros 2 and $\\sqrt{2}$. If $f(0) = 1000$, in which of the following intervals lies $f\\left(\\dfrac{2+\\sqrt{2}}{2}\\right)$ ?",
+   "choices": [
+    "$(-\\infty, -50)$",
+    "$[-50, -20)$",
+    "$[-20, -10)$",
+    "$[-10, 0)$",
+    "$[0, \\infty)$"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "trigonometry"
+   ],
+   "statement": "If $3\\sin^2\\theta = 5\\sin\\theta + 2$ and $\\cos\\theta < 0$, then $\\sin 2\\theta =$",
+   "choices": [
+    "$-\\dfrac{2}{3}$",
+    "$-\\dfrac{\\sqrt{3}}{2}$",
+    "$\\dfrac{\\sqrt{3}}{2}$",
+    "$-\\dfrac{4\\sqrt{2}}{9}$",
+    "$\\dfrac{4\\sqrt{2}}{9}$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "logarithms-exponents",
+    "algebra"
+   ],
+   "statement": "Find the sum of the squares of the solutions for $\\left(x^2 - 4\\right)^{\\left(x^2 - x - 6\\right)} = 1$, $\\;x \\ne -2$.",
+   "choices": [
+    "$5$",
+    "$9$",
+    "$10$",
+    "$14$",
+    "$19$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "geometry",
+    "word-problems"
+   ],
+   "statement": "Suppose the earth were a perfect sphere with a perfectly fitting belt of $24\\,000$ miles surrounding it along a great circular path. Suppose the belt was cut, and one hundred feet of additional material was added to the belt, with the \"loose fit\" evenly distributed around the earth so that the new belt was still circular with its center at the center of the earth. Which of the following **best** describes the resulting situation?",
+   "choices": [
+    "You could slip a piece of paper between the belt and the earth.",
+    "You could get your fingers under the belt.",
+    "You could crawl under the belt.",
+    "You could walk upright under the belt.",
+    "You could drive a truck under the belt."
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "word-problems"
+   ],
+   "statement": "If one car is one mile behind another car traveling at a constant rate of 65 miles per hour on an interstate highway with plenty of open road ahead, how fast must the first car travel in order to overtake the second car in ten minutes?",
+   "choices": [
+    "68 mph",
+    "69 mph",
+    "70 mph",
+    "71 mph",
+    "75 mph"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "probability"
+   ],
+   "statement": "Consider the following proposed casino game. A player pays \\$2 and roll two dice.* If the sum of dots on the upper faces of the two dice totals at least ten, the player receives \\$10, for a gain of \\$8. Otherwise, the player gets nothing, for a loss of \\$2. If this game is played 3000 times, what is the expected outcome (or mathematical expectation) for the OPERATOR of this game?\n\n*A die is a cube whose faces are marked with from one to six dots, with each number of dots occurring exactly once. The plural of die is dice.",
+   "choices": [
+    "gain \\$3000",
+    "gain \\$1000",
+    "lose \\$2000",
+    "lose \\$3000",
+    "none of these"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "geometry",
+    "trigonometry"
+   ],
+   "statement": "What is the area (to the nearest hundredth of square unit) of a regular pentagon with a side length of one unit?",
+   "choices": [
+    "$1.48$",
+    "$1.54$",
+    "$1.60$",
+    "$1.64$",
+    "$1.72$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "functions",
+    "polynomials"
+   ],
+   "statement": "Let $f(x) = x^2 - 10$. How many real solutions does $f(f(f(x))) = 100$ have?",
+   "choices": [
+    "$0$",
+    "$1$",
+    "$2$",
+    "$4$",
+    "$8$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "geometry",
+    "trigonometry"
+   ],
+   "statement": "An isosceles triangle is inscribed in a circle of radius one. Two equal sides of the triangle are twice as long as the third side. Find the area of the triangle.",
+   "choices": [
+    "$\\dfrac{15\\sqrt{15}}{64}$",
+    "$\\dfrac{8\\sqrt{5}}{15}$",
+    "$\\dfrac{5\\sqrt{3}}{8}$",
+    "$\\dfrac{16-\\sqrt{5}}{64}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "functions",
+    "trigonometry"
+   ],
+   "statement": "How many real solutions does $(x-50)^2 = 1000 + 7\\sin(50x)$ have?",
+   "choices": [
+    "$2$",
+    "$6$",
+    "$8$",
+    "$10$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "probability",
+    "combinatorics"
+   ],
+   "statement": "Patty Point takes a random walk through the rectangular coordinate plane as follows. She tosses a dime and a nickel. She then moves one unit in the direction as indicated in the chart below.\n\n$$\\begin{array}{c|c|c} \\text{dime} & \\text{nickel} & \\text{direction} \\\\ \\hline \\text{heads} & \\text{heads} & \\text{of the positive } x\\text{-axis (\"east\")} \\\\ \\text{heads} & \\text{tails} & \\text{of the negative } x\\text{-axis (\"west\")} \\\\ \\text{tails} & \\text{heads} & \\text{of the positive } y\\text{-axis (\"north\")} \\\\ \\text{tails} & \\text{tails} & \\text{of the negative } y\\text{-axis (\"south\")} \\end{array}$$\n\nIf she starts at the origin, what is the probability that she is in the first quadrant after three tosses? (Note: Points on a coordinate axis are not in any quadrant.)",
+   "choices": [
+    "$\\dfrac{3}{32}$",
+    "$\\dfrac{5}{64}$",
+    "$\\dfrac{3}{16}$",
+    "$\\dfrac{1}{8}$",
+    "none of these"
+   ]
+  }
+ ]
+}

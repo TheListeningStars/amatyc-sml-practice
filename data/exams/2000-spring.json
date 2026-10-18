@@ -1,0 +1,287 @@
+{
+ "id": "2000-spring",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "functions",
+    "algebra"
+   ],
+   "statement": "The sum of all of the intercepts of the graph of $f(x) = 4x^2 - 4x - 3$ is",
+   "choices": [
+    "$3$",
+    "$2$",
+    "$1$",
+    "$-2$",
+    "$-3$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "trigonometry"
+   ],
+   "statement": "$\\csc t - \\sin t =$",
+   "choices": [
+    "$\\cot t \\cos t$",
+    "$\\tan t \\sin t$",
+    "$\\tan t \\sec t$",
+    "$\\cot t \\csc t$",
+    "$\\sec t \\csc t$"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "The supplement of an angle is 2.5 times the complement of the angle. The sum of the supplement and complement of the angle is",
+   "choices": [
+    "$120^\\circ$",
+    "$150^\\circ$",
+    "$180^\\circ$",
+    "$210^\\circ$",
+    "$270^\\circ$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "The equation of the line whose $x$- and $y$-intercepts are the reciprocals of the corresponding intercepts of the line with equation $3x + 5y = 30$ is",
+   "choices": [
+    "$5x + 3y = 30$",
+    "$6x + 10y = 1$",
+    "$10x + 6y = 1$",
+    "$3x + 5y = 15$",
+    "$5x + 3y = 15$"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "algebra",
+    "vectors-matrices"
+   ],
+   "statement": "The sum of the $x$- and $y$-coordinates of the solution to the system $$\\begin{cases} \\dfrac{5}{x} + \\dfrac{4}{y} = 2 \\\\ \\dfrac{2}{x} + \\dfrac{5}{y} = 11 \\end{cases}$$ is",
+   "choices": [
+    "$\\frac{-1}{3}$",
+    "$\\frac{-1}{6}$",
+    "$0$",
+    "$\\frac{1}{6}$",
+    "$\\frac{1}{3}$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "polynomials"
+   ],
+   "statement": "The remainder when $x^{50} - 16x^{46} - x^{43} - 8x^{40} - 3x + 5$ is divided by $x + 2$ is",
+   "choices": [
+    "$5$",
+    "$11$",
+    "$-265$",
+    "$-301$",
+    "$-2^{44} - 1$"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "probability",
+    "combinatorics"
+   ],
+   "statement": "Six children, three boys and three girls, are randomly seated in six chairs in a row. The probability that no children of the same gender are seated next to each other is",
+   "choices": [
+    "$\\frac{1}{10}$",
+    "$\\frac{1}{5}$",
+    "$\\frac{3}{10}$",
+    "$\\frac{2}{5}$",
+    "$\\frac{1}{2}$"
+   ]
+  },
+  {
+   "n": 8,
+   "topics": [
+    "word-problems",
+    "algebra"
+   ],
+   "statement": "A rectangular solid's length is increased by 20%, its width increased by 30%, and its height decreased by 40%. The percentage change in its volume is",
+   "choices": [
+    "6.4% decrease",
+    "4% decrease",
+    "2.4% increase",
+    "10% increase",
+    "it depends on the solid's dimensions"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "word-problems"
+   ],
+   "statement": "One faucet can fill a tank in 3 hr, a second faucet can fill the tank in 5 hr, and the drain can empty the tank in 7.5 hr. Assuming all filling and emptying occurs at constant rates, how many hours will it take to fill the tank if both faucets operate and the drain is open?",
+   "choices": [
+    "1.5",
+    "2",
+    "2.5",
+    "3",
+    "it will never fill"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "functions"
+   ],
+   "statement": "If $f(x) = 2x - 4$, then the inverse function $f^{-1}(x)$ equals",
+   "choices": [
+    "$\\frac{1}{2}x + 4$",
+    "$\\frac{1}{2}x + 2$",
+    "$\\frac{1}{2x + 4}$",
+    "$4 - 2x$",
+    "$\\frac{1}{2}x - \\frac{1}{4}$"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "probability",
+    "combinatorics"
+   ],
+   "statement": "The letters A, M, A, T, Y, and C are placed one per side on the six faces of a regular cube. The probability that on six rolls of the cube, the letters showing on the top faces cannot be rearranged to spell AMATYC is",
+   "choices": [
+    "$\\frac{46655}{46656}$",
+    "$\\frac{11663}{11664}$",
+    "$\\frac{157}{162}$",
+    "$\\frac{76}{81}$",
+    "$\\frac{49}{54}$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "trigonometry"
+   ],
+   "statement": "$\\sin\\left(\\operatorname{Arcsec}\\dfrac{17}{8} - \\operatorname{Arctan}\\dfrac{-2}{3}\\right)$ can be expressed in simplest terms in the form $\\dfrac{X}{Y\\sqrt{Z}}$. Then $X + Y + Z =$",
+   "choices": [
+    "$-31$",
+    "$-24$",
+    "$59$",
+    "$84$",
+    "$91$"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A frustum is the solid with two circular bases formed by the part of a cone lying between two parallel planes which are perpendicular to the axis of the cone. The volume in cu ft of a frustum with bases of radius 10 ft and 8 ft and height 3 ft is",
+   "choices": [
+    "$240\\pi$",
+    "$244\\pi$",
+    "$248\\pi$",
+    "$252\\pi$",
+    "$256\\pi$"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "geometry",
+    "algebra"
+   ],
+   "statement": "The volumes of two cubes differ by 259 cu cm. If the edges of one cube are each 4 cm greater than the edges of the other, then the sum of the lengths of one edge of each cube equals",
+   "choices": [
+    "7 cm",
+    "8 cm",
+    "9 cm",
+    "10 cm",
+    "11 cm"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "functions"
+   ],
+   "statement": "The graph of the function $f(x) = \\dfrac{2x^2 + 6x}{x^2 + 3x - 4}$ is symmetric to the line with equation $x = S$. Find $S$.",
+   "choices": [
+    "$3$",
+    "$-3$",
+    "$0$",
+    "$\\frac{3}{2}$",
+    "$\\frac{-3}{2}$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "number-theory"
+   ],
+   "statement": "The sum of the elements of the set $\\{3, 4, 5, 6, 8, 9, 11\\}$ which are factors of $9 \\cdot 10^{655} + 7 \\cdot 10^{400} + 6 \\cdot 10^{237} + 5 \\cdot 10^{113} + 4 \\cdot 10^{2} + 2 \\cdot 10^{1}$ is",
+   "choices": [
+    "$18$",
+    "$26$",
+    "$27$",
+    "$29$",
+    "$37$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A right triangle has hypotenuse 25 and one leg 7. The length of the altitude to the hypotenuse is",
+   "choices": [
+    "$6.68$",
+    "$6.72$",
+    "$6.76$",
+    "$6.80$",
+    "$6.84$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "number-theory",
+    "algebra"
+   ],
+   "statement": "How many pairs of integers $(A, B)$ are there for which $A^2 - B^2 = 81$?",
+   "choices": [
+    "$2$",
+    "$3$",
+    "$8$",
+    "$10$",
+    "$12$"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "number-theory",
+    "sequences-series"
+   ],
+   "statement": "$1 \\cdot 3 \\cdot 5 + 2 \\cdot 4 \\cdot 6 + 3 \\cdot 5 \\cdot 7 + \\ldots + 2000 \\cdot 2002 \\cdot 2004$ is divisible by",
+   "choices": [
+    "400",
+    "401",
+    "402",
+    "both A and B",
+    "both A and C"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "sequences-series"
+   ],
+   "statement": "Find the exact value of $$\\sum_{k=1}^{\\infty} \\frac{k}{8^k}$$ and place your answer in the corresponding blank on the answer sheet.",
+   "choices": null
+  }
+ ]
+}

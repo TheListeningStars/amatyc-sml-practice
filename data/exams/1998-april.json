@@ -1,0 +1,305 @@
+{
+ "id": "1998-april",
+ "problems": [
+  {
+   "n": 1,
+   "topics": [
+    "coordinate-geometry",
+    "geometry"
+   ],
+   "statement": "If $(-4,-3)$, $(-1,4)$, and $(1,-2)$ are three of the vertices of a parallelogram, then the fourth vertex is",
+   "choices": [
+    "$(2,4)$",
+    "$(3,4)$",
+    "$(5,4)$",
+    "$(5,1)$",
+    "$(4,5)$"
+   ]
+  },
+  {
+   "n": 2,
+   "topics": [
+    "functions",
+    "algebra"
+   ],
+   "statement": "Let $f$ be a linear function of the form $f(x)=mx+b$. If $f(5)=-3$ and $f(8)=4$, then $m+b=$",
+   "choices": [
+    "$-14$",
+    "$-12$",
+    "$-\\dfrac{37}{3}$",
+    "$17$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 3,
+   "topics": [
+    "algebra",
+    "coordinate-geometry"
+   ],
+   "statement": "Which of the following equations best fits the given data?\n\n$$\\begin{array}{c|c}x&y\\\\\\hline 0.27&0.30\\\\0.51&0.12\\\\0.73&-0.05\\\\1.04&-0.28\\\\1.39&-0.54\\end{array}$$",
+   "choices": [
+    "$x+2y=1$",
+    "$2x+y=1$",
+    "$3x-2y=1$",
+    "$3x+4y=2$",
+    "$4x+3y=2$"
+   ]
+  },
+  {
+   "n": 4,
+   "topics": [
+    "functions",
+    "polynomials"
+   ],
+   "statement": "Let $f$ be a polynomial function such that, for all real $x$, $f(x-1)=x^2-3x+5$. Then, for all real $x$, $f(x+1)=$",
+   "choices": [
+    "$x^2+x+3$",
+    "$x^2-x+3$",
+    "$x^2+x$",
+    "$x^2-3x+7$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 5,
+   "topics": [
+    "algebra"
+   ],
+   "statement": "If three-eights of a number is two-sevenths more than four-fifth of the number, then in which of the following intervals lies three-sevenths less than three times the cube of the number?",
+   "choices": [
+    "$(-\\infty,-2]$",
+    "$(-2,-1)$",
+    "$[-1,1]$",
+    "$(1,2)$",
+    "$[2,\\infty)$"
+   ]
+  },
+  {
+   "n": 6,
+   "topics": [
+    "combinatorics",
+    "word-problems"
+   ],
+   "statement": "A family of seven has a dining area with seven distinct seats. Which of the following is the best estimate of how long it would take the family to exhaust all of the possible seating assignments, assuming they eat one meal per day together and always use a new seating assignment each day?",
+   "choices": [
+    "7 months",
+    "3 years",
+    "8 years",
+    "14 years",
+    "37 years"
+   ]
+  },
+  {
+   "n": 7,
+   "topics": [
+    "sequences-series",
+    "geometry"
+   ],
+   "statement": "Figures 1, 2, and 3 consist of 5, 13, and 25 unit squares, respectively. If the pattern is continued, figure 100 would consist of how many square units?",
+   "choices": [
+    "$10\\,401$",
+    "$19\\,801$",
+    "$20\\,201$",
+    "$39\\,801$",
+    "none of these"
+   ],
+   "figure": {
+    "page": 1,
+    "box": [
+     0.27,
+     0.61,
+     0.77,
+     0.76
+    ]
+   }
+  },
+  {
+   "n": 8,
+   "topics": [
+    "functions",
+    "algebra"
+   ],
+   "statement": "If $f$ is a quadratic function of the form $f(x)=ax^2+bx+c$, $a\\ne 0$, such that $f(3)=f(7)=0$, find $\\dfrac{f(4)+f(10)-f(6)}{f(-2)-f(12)+f(0)}$.",
+   "choices": [
+    "$-1$",
+    "$\\dfrac{4}{5}$",
+    "$1$",
+    "$2$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 9,
+   "topics": [
+    "vectors-matrices"
+   ],
+   "statement": "Given that $a>0$ and $\\begin{bmatrix}a&-2\\\\1&d\\end{bmatrix}^2=\\begin{bmatrix}1&0\\\\0&1\\end{bmatrix}$, find $d$.",
+   "choices": [
+    "$-\\sqrt{2}$",
+    "$-1$",
+    "$1$",
+    "$\\sqrt{3}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 10,
+   "topics": [
+    "trigonometry",
+    "functions"
+   ],
+   "statement": "Consider the graphs of $y=\\sin x$, $y=\\cos x$, $y=\\tan x$, $y=\\cot x$, $y=\\sec x$, and $y=\\csc x$. Let $R=\\{(x,y) \\mid 0\\le x\\le \\dfrac{\\pi}{2}, 0\\le y\\le 100\\}$. How many points of $R$ are on at least two of the graphs?",
+   "choices": [
+    "$10$",
+    "$11$",
+    "$12$",
+    "$14$",
+    "$15$"
+   ]
+  },
+  {
+   "n": 11,
+   "topics": [
+    "functions"
+   ],
+   "statement": "Which of the following has a graph with exactly two vertical asymptotes?",
+   "choices": [
+    "$\\ln\\left|x^2-x-6\\right|$",
+    "$y=\\tan x$",
+    "$y=\\dfrac{x^2-1}{x^2+1}$",
+    "$y=\\dfrac{x+5}{x^2-6x+9}$",
+    "$y=\\dfrac{x+6}{x^2+5x-6}$"
+   ]
+  },
+  {
+   "n": 12,
+   "topics": [
+    "trigonometry"
+   ],
+   "statement": "For $|x|\\le 1$, $\\cos\\left(2\\cos^{-1}x\\right)=$",
+   "choices": [
+    "$\\dfrac{2}{\\sqrt{1-x^2}}$",
+    "$\\dfrac{1}{\\sqrt{1-4x^2}}$",
+    "$2x$",
+    "$2x^2-1$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 13,
+   "topics": [
+    "logarithms-exponents"
+   ],
+   "statement": "$49^{3\\log_7 4}=$",
+   "choices": [
+    "$2^{12}$",
+    "$2^{98}$",
+    "$7^{12}$",
+    "$7^{21}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 14,
+   "topics": [
+    "combinatorics"
+   ],
+   "statement": "For each person taking this exam, an ordered triple could be made of the form $(c,w,b)$, where $c$ is the number of questions answered correctly, $w$ is the number answered wrong, and $b$ is the number left blank. Clearly, $c+w+b=20$. How many such ordered triples are possible?",
+   "choices": [
+    "$95$",
+    "$231$",
+    "$242$",
+    "$8000$",
+    "$9261$"
+   ]
+  },
+  {
+   "n": 15,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "Let $ABC$ be a right triangle with $AC=BC=6$. Let $D$ and $E$ be on $AC$ and $BC$, respectively, with $CD=CE=4$. Let $AE$ and $BD$ intersect at $F$. Find the area of triangle $ABF$.",
+   "choices": [
+    "$3.5$",
+    "$3.6$",
+    "$3.75$",
+    "$4$",
+    "$4.2$"
+   ]
+  },
+  {
+   "n": 16,
+   "topics": [
+    "polynomials",
+    "complex-numbers"
+   ],
+   "statement": "Let $P(x)=4x^5-12x^4+21x^3-8x^2-31x-10$. Find the product of the distinct complex zeros of $P$.",
+   "choices": [
+    "$10$",
+    "$-1$",
+    "$-\\dfrac{5}{2}$",
+    "$-5$",
+    "$-10$"
+   ]
+  },
+  {
+   "n": 17,
+   "topics": [
+    "geometry",
+    "trigonometry"
+   ],
+   "statement": "Point $D$ is on side $AB$ of triangle $ABC$, with $\\angle ACD=\\angle BCD=60^\\circ$, $AC=5$, and $BC=15$. $CD=$",
+   "choices": [
+    "$3$",
+    "$3.25$",
+    "$2\\sqrt{3}$",
+    "$3.5$",
+    "$3.75$"
+   ]
+  },
+  {
+   "n": 18,
+   "topics": [
+    "coordinate-geometry"
+   ],
+   "statement": "If $(-1,4)$ and $(2,4)$ are the two foci of an ellipse, and $(-2,2)$ is a point on the ellipse, what is the maximum value for the $y$-coordinates of all of the points on the ellipse?",
+   "choices": [
+    "$4+2\\sqrt{2}$",
+    "$7$",
+    "$4+\\sqrt{10}$",
+    "$4+2\\sqrt{5}$",
+    "none of these"
+   ]
+  },
+  {
+   "n": 19,
+   "topics": [
+    "geometry"
+   ],
+   "statement": "A square of area one is surrounded by four distinct circles, each with area one and each externally tangent to the square at a midpoint of the side of the square. Find the area, to the nearest hundredth of a square unit, of the circle circumscribing the four circles.",
+   "choices": [
+    "$8.33$",
+    "$8.47$",
+    "$8.51$",
+    "$8.59$",
+    "$8.67$"
+   ]
+  },
+  {
+   "n": 20,
+   "topics": [
+    "probability",
+    "algebra"
+   ],
+   "statement": "What is the probability that a solution for $x^2+3x<10$ is also $x^2>5$?",
+   "choices": [
+    "$\\dfrac{2+\\sqrt{5}}{14}$",
+    "$\\dfrac{\\sqrt{5}}{7}$",
+    "$\\dfrac{5-\\sqrt{5}}{7}$",
+    "$\\dfrac{2\\sqrt{5}}{7}$",
+    "none of these"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "source": "SML official short solutions (March-April 2002, Test #3)",
+ "answers": {
+  "1": [
+   "B"
+  ],
+  "2": [
+   "D"
+  ],
+  "3": [
+   "A"
+  ],
+  "4": [
+   "C"
+  ],
+  "5": [
+   "C"
+  ],
+  "6": [
+   "D"
+  ],
+  "7": [
+   "D"
+  ],
+  "8": [
+   "D"
+  ],
+  "9": [
+   "E"
+  ],
+  "10": [
+   "E"
+  ],
+  "11": [
+   "B"
+  ],
+  "12": [
+   "B"
+  ],
+  "13": [
+   "C"
+  ],
+  "14": [
+   "A"
+  ],
+  "15": [
+   "B"
+  ],
+  "16": [
+   "E"
+  ],
+  "17": [
+   "A"
+  ],
+  "18": [
+   "B"
+  ],
+  "19": [
+   "A"
+  ],
+  "20": [
+   "A"
+  ]
+ },
+ "notes": {
+  "1": "Margin letter is clipped by the scan edge and looks like a partial B; the printed solution gives x = 1.5, which is choice B"
+ }
+}

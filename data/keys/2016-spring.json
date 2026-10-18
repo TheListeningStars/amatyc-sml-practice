@@ -1,0 +1,8 @@
+{
+  "source": "AMATYC official answer key",
+  "answers": {"1": ["D"], "2": ["C"], "3": ["C"], "4": ["D"], "5": ["B"], "6": ["C"], "7": ["E"], "8": ["B"], "9": ["C"], "10": ["C"],
+   "11": ["11"], "12": ["A"], "13": ["D"], "14": ["C"], "15": ["A"], "16": ["A"], "17": ["B"], "18": ["D"], "19": [], "20": ["D"]},
+  "notes": {"11": "Key: 11; corrector note \"blank or correct never wrong\" (free response, no choices)",
+            "19": "Key says \"CORRECT FOR EVERYONE\""},
+  "voided": ["19"]
+}

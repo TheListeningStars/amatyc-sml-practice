@@ -1,0 +1,59 @@
+{
+ "source": "Official answer key (Exam 3, March 1986)",
+ "answers": {
+  "1": [
+   "D"
+  ],
+  "2": [
+   "B"
+  ],
+  "3": [
+   "C"
+  ],
+  "4": [
+   "A"
+  ],
+  "5": [
+   "E"
+  ],
+  "6": [
+   "B"
+  ],
+  "7": [
+   "A"
+  ],
+  "8": [
+   "B"
+  ],
+  "9": [
+   "E"
+  ],
+  "10": [
+   "D"
+  ],
+  "11": [
+   "C"
+  ],
+  "12": [
+   "E"
+  ],
+  "13": [
+   "A"
+  ],
+  "14": [
+   "D"
+  ],
+  "15": [
+   "B"
+  ],
+  "16": [
+   "D"
+  ]
+ },
+ "notes": {
+  "5": "Key: E, with the remark 'we think p = (35/2)/(49 pi) = 5/(14 pi)'.",
+  "9": "Key: E, with the remark 'we think it's 1/4'.",
+  "12": "Key: E, with the remark 'x = 3/2'.",
+  "16": "Key page says D; the correct-answer marker in the original LaTeX says E. Key page answer kept."
+ }
+}

@@ -1,0 +1,1089 @@
+{
+ "exams": [
+  {
+   "id": "1985-spring",
+   "label": "Spring 1985",
+   "round": 2,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp85/sp85.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp85/sp85k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp85/sp85.pdf",
+   "solutions": []
+  },
+  {
+   "id": "1986-spring",
+   "label": "Spring 1986",
+   "round": 2,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp86/sp86.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp86/sp86k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp86/sp86.pdf",
+   "solutions": []
+  },
+  {
+   "id": "1995-fall",
+   "label": "Fall 1995",
+   "round": 1,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall95/fall95.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall95/fall95k.tex"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall95/fall95.pdf",
+   "solutions": []
+  },
+  {
+   "id": "1996-fall",
+   "label": "Fall 1996",
+   "round": 1,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall96/fall96.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall96/fall96.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall96/fall96.pdf",
+   "key_in_exam": true,
+   "solutions": []
+  },
+  {
+   "id": "1997-spring",
+   "label": "Spring 1997",
+   "round": 2,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp97/sp97.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp97/sp97.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp97/sp97.pdf",
+   "key_in_exam": true,
+   "solutions": []
+  },
+  {
+   "id": "1997-april",
+   "label": "April 1997",
+   "round": 3,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su97/su97.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su97/su97.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su97/su97.pdf",
+   "key_in_exam": true,
+   "solutions": []
+  },
+  {
+   "id": "1997-fall",
+   "label": "Fall 1997",
+   "round": 1,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall97/fall97.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall97/fall97.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall97/fall97.pdf",
+   "key_in_exam": true,
+   "solutions": []
+  },
+  {
+   "id": "1998-spring",
+   "label": "Spring 1998",
+   "round": 2,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp98/sp98.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp98/sp98.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp98/sp98.pdf",
+   "key_in_exam": true,
+   "solutions": []
+  },
+  {
+   "id": "1998-april",
+   "label": "April 1998",
+   "round": 3,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su98/su98.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su98/su98.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su98/su98.pdf",
+   "key_in_exam": true,
+   "solutions": []
+  },
+  {
+   "id": "1998-fall",
+   "label": "Fall 1998",
+   "round": 1,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall98/fall98.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall98/fall98.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall98/fall98.pdf",
+   "key_in_exam": true,
+   "solutions": []
+  },
+  {
+   "id": "1999-spring",
+   "label": "Spring 1999",
+   "round": 2,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp99/sp99.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp99/sp99.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp99/sp99.pdf",
+   "key_in_exam": true,
+   "solutions": []
+  },
+  {
+   "id": "1999-april",
+   "label": "April 1999",
+   "round": 3,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su99/su99.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su99/su99K.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su99/su99.pdf",
+   "solutions": [],
+   "scanned": true
+  },
+  {
+   "id": "1999-fall",
+   "label": "Fall 1999",
+   "round": 1,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall99/fall99.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall99/fall99k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall99/fall99.pdf",
+   "solutions": [],
+   "scanned": true
+  },
+  {
+   "id": "2000-spring",
+   "label": "Spring 2000",
+   "round": 2,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp00/sp00.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp00/sp00k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp00/sp00.pdf",
+   "solutions": [],
+   "scanned": true
+  },
+  {
+   "id": "2000-april",
+   "label": "April 2000",
+   "round": 3,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su00/su00.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su00/su00k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su00/su00.pdf",
+   "solutions": [],
+   "scanned": true
+  },
+  {
+   "id": "2000-fall",
+   "label": "Fall 2000",
+   "round": 1,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall00/fall00.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall00/fall00k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall00/fall00.pdf",
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall00/fall00k.pdf",
+     "source": "SML official short solutions"
+    }
+   ],
+   "scanned": true
+  },
+  {
+   "id": "2001-spring",
+   "label": "Spring 2001",
+   "round": 2,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp01/sp01.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall00/fall00k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp01/sp01.pdf",
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall00/fall00k.pdf",
+     "source": "SML official short solutions"
+    }
+   ],
+   "scanned": true
+  },
+  {
+   "id": "2001-april",
+   "label": "April 2001",
+   "round": 3,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su01/su01.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall00/fall00k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su01/su01.pdf",
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall00/fall00k.pdf",
+     "source": "SML official short solutions"
+    }
+   ],
+   "scanned": true
+  },
+  {
+   "id": "2001-fall",
+   "label": "Fall 2001",
+   "round": 1,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall01/fall01.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall01/fall01k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall01/fall01.pdf",
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall01/fall01k.pdf",
+     "source": "SML official short solutions"
+    }
+   ],
+   "scanned": true
+  },
+  {
+   "id": "2002-spring",
+   "label": "Spring 2002",
+   "round": 2,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp02/sp02.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall01/fall01k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp02/sp02.pdf",
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall01/fall01k.pdf",
+     "source": "SML official short solutions"
+    }
+   ],
+   "scanned": true
+  },
+  {
+   "id": "2002-april",
+   "label": "April 2002",
+   "round": 3,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su02/su02.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall01/fall01k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/su02/su02.pdf",
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall01/fall01k.pdf",
+     "source": "SML official short solutions"
+    }
+   ],
+   "scanned": true
+  },
+  {
+   "id": "2002-fall",
+   "label": "Fall 2002",
+   "round": 1,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall02/fall02.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall02/fall02k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall02/fall02.pdf",
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall02/fall02k.pdf",
+     "source": "SML official short solutions"
+    },
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall01/fall01k.pdf",
+     "source": "SML official short solutions (page misfiled in the 2001-02 file)"
+    }
+   ],
+   "scanned": true
+  },
+  {
+   "id": "2003-spring",
+   "label": "Spring 2003",
+   "round": 2,
+   "source": "marta",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp03/sp03.pdf",
+    "key": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall02/fall02k.pdf"
+   },
+   "exam_link": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp03/sp03.pdf",
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall02/fall02k.pdf",
+     "source": "SML official short solutions"
+    }
+   ],
+   "scanned": true
+  },
+  {
+   "id": "2003-fall",
+   "label": "Fall 2003",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--72F0B76F-A6A6-434E-924B-7A29CFA0ABF3/smltestfall2003.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--CA6D497E-7F9C-452A-904D-75D4BC733001/smlkeyfall2003.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--72F0B76F-A6A6-434E-924B-7A29CFA0ABF3/smltestfall2003.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall03/fall03k.pdf"
+   ],
+   "solutions": []
+  },
+  {
+   "id": "2004-spring",
+   "label": "Spring 2004",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp04/sp04.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--513FD03E-9025-4BBC-9DC2-4EEAC6D49C78/key2004spring.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--A2770058-6CC8-4C68-BBB6-B5ECC1D06710/competition2004spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp04/sp04k.pdf"
+   ],
+   "solutions": []
+  },
+  {
+   "id": "2004-fall",
+   "label": "Fall 2004",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--6709782B-CE5C-40EB-B00B-9F003F29F324/competition2004fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--0D67B7C6-BE25-4D57-A9D0-0EDDDF70CD6E/key2004fall.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--6709782B-CE5C-40EB-B00B-9F003F29F324/competition2004fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall04/fall04k.pdf"
+   ],
+   "solutions": []
+  },
+  {
+   "id": "2005-spring",
+   "label": "Spring 2005",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--A9C4A07F-B074-43A1-8F31-3353316F2D52/competition2005spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--B1814432-DE5B-4627-84F3-C9BF87807F36/key2005spring.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--A9C4A07F-B074-43A1-8F31-3353316F2D52/competition2005spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp05/sp05k.pdf"
+   ],
+   "solutions": []
+  },
+  {
+   "id": "2005-fall",
+   "label": "Fall 2005",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--ADE8A16B-49D0-4603-9176-0A95E7CCBF80/competition2005fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--87589102-33DF-43D8-A388-68A9A477DB7A/key2005fall.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--ADE8A16B-49D0-4603-9176-0A95E7CCBF80/competition2005fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall05/fall05k.pdf"
+   ],
+   "solutions": []
+  },
+  {
+   "id": "2006-spring",
+   "label": "Spring 2006",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--04B2190C-3DBB-45A2-8F2F-68603CF0C1AF/competition2006spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--DF0F9AF2-E86E-4AAC-BC4A-115A0A2BCF0C/key2006spring.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--04B2190C-3DBB-45A2-8F2F-68603CF0C1AF/competition2006spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp06/sp06k.pdf"
+   ],
+   "solutions": []
+  },
+  {
+   "id": "2006-fall",
+   "label": "Fall 2006",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall06/fall06.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--0940217C-94FB-4116-A388-E35F820882F2/key2006fall.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--5F687C0B-E93B-4FF8-8B6A-AEA01AA4BA88/competition2006fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall06/fall06k.doc"
+   ],
+   "solutions": []
+  },
+  {
+   "id": "2007-spring",
+   "label": "Spring 2007",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp07/sp07.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--8E4433D4-18DE-4A59-82C1-AD9E3A07CADC/key2007spring.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--B6A8B0AE-C35D-48C0-AA96-5AAC8CDE64A0/competition2007spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp07/sp07k.doc"
+   ],
+   "solutions": []
+  },
+  {
+   "id": "2007-fall",
+   "label": "Fall 2007",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall07/fall07.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--10C2AA02-7262-450F-91C9-6C9AB90C96EA/key2007fall.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--FA0BA9F5-8D6F-4DB9-A7FF-3A25C32B8FF0/competition2007fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall07/fall07k.doc"
+   ],
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall07/fall07s.pdf",
+     "source": "Solutions by Leo Livshutz (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2008-spring",
+   "label": "Spring 2008",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--5652236B-3012-4E95-B349-09C4A8F01036/competition2008spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--EBC7BF4C-8130-4A3D-A9BF-B2374EDE17B6/key2008spring.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--5652236B-3012-4E95-B349-09C4A8F01036/competition2008spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp08/sp08k.doc"
+   ],
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp08/sp08s.pdf",
+     "source": "Solutions by Leo Livshutz (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2008-fall",
+   "label": "Fall 2008",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--7E633AF7-7117-4228-9CA2-EE79CCA78CDC/2008-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--4457CEED-D4D2-421E-83E2-F74FE8E0F70B/2008-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--7E633AF7-7117-4228-9CA2-EE79CCA78CDC/2008-fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall08/fall08k.doc"
+   ],
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall08/fall08s.pdf",
+     "source": "Solutions by Leo Livshutz (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2009-spring",
+   "label": "Spring 2009",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--7F28B8CF-B851-4A66-BA66-A84FECFF8CBE/2009-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--6D672168-3175-4EB7-AE3E-E5B91B91CDBC/2009-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--7F28B8CF-B851-4A66-BA66-A84FECFF8CBE/2009-spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp09/sp09k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp09/sp09s.pdf",
+     "source": "Solutions by Leo Livshutz (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2009-fall",
+   "label": "Fall 2009",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall09/fall09.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--984D38AE-539A-4AD7-84E8-E42C1AA64130/2009-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--035F28B8-2202-4E47-A006-507C0F89A455/2009-fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall09/fall09k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall09/fall09s.pdf",
+     "source": "Solutions by Leo Livshutz (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2010-spring",
+   "label": "Spring 2010",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--1714C4D4-4D87-4232-82C0-826C94305222/2010-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--7CE1A58E-FD6A-42E2-B1B0-C103EEA4558D/2010-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--1714C4D4-4D87-4232-82C0-826C94305222/2010-spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp10/sp10k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp10/sp10s.pdf",
+     "source": "Solutions by Leo Livshutz (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2010-fall",
+   "label": "Fall 2010",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--5C7A1154-1AF3-4B03-881A-4E07BCD27B12/2010-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--E1946E9E-9522-4528-8A71-E8C0D6C6E5B5/2010-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--5C7A1154-1AF3-4B03-881A-4E07BCD27B12/2010-fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall10/fa10k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall10/fa10s.pdf",
+     "source": "Solutions by Leo Livshutz (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2011-spring",
+   "label": "Spring 2011",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--BEBF422A-EA61-4E87-A8AE-47A3DE768165/2011-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--65616071-473D-4EBF-B3BE-F59D453DADEA/2011-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--BEBF422A-EA61-4E87-A8AE-47A3DE768165/2011-spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp11/sp11k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp11/SolutionsOfSpring2011.pdf",
+     "source": "Solutions by Leo Livshutz (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2011-fall",
+   "label": "Fall 2011",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--EDD78E0B-058F-4ABF-B9F1-898701B39007/2011-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--181370D6-2AF8-46D7-B10F-3BBD992AB7B3/2011-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--EDD78E0B-058F-4ABF-B9F1-898701B39007/2011-fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall11/fa11k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--15369D54-62DF-447C-B5A7-D0D96475A2FA/2011-fall-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    },
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall11/fa11s.pdf",
+     "source": "Solutions by Leo Livshutz (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2012-spring",
+   "label": "Spring 2012",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--632730E1-2757-4996-9EDF-51CF58BF8710/2012-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--A045ACA7-9D96-42F0-BB9E-41005939AF8C/2012-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--632730E1-2757-4996-9EDF-51CF58BF8710/2012-spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp12/sp12k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--3C271A09-7C0F-41BB-A18C-97EEAD11D669/2012-spring-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    },
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp12/SolutionsOfSpring2012.pdf",
+     "source": "Solutions by Leo Livshutz (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2012-fall",
+   "label": "Fall 2012",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--277B28D6-9015-4145-8DB3-79EC664B7E2F/2012-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--CCFF9218-D25F-476D-8D74-B87A36AFA467/2012-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--277B28D6-9015-4145-8DB3-79EC664B7E2F/2012-fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall12/fa12k.pdf"
+   ],
+   "solutions": []
+  },
+  {
+   "id": "2013-spring",
+   "label": "Spring 2013",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--21BDE77A-B6CA-4F61-B5C6-8D9A5627D013/2013-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--9DFE5CEA-390C-41B6-828F-8C13FE25557E/2013-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--21BDE77A-B6CA-4F61-B5C6-8D9A5627D013/2013-spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp13/sp13k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--A6C5F369-8451-485C-88F2-0643C4BA2056/2013-spring-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    },
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp13/SolutionsOfSpring2013.pdf",
+     "source": "Solutions by Leo Livshutz (Truman College)"
+    },
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp13/sp13s.pdf",
+     "source": "Solutions by Marta Hidegkuti (Truman College)"
+    },
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp13/sp13_n14.pdf",
+     "source": "Solutions by Marta Hidegkuti (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2013-fall",
+   "label": "Fall 2013",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--144FBBD1-BB7A-4C02-8D9C-3B0363F2FE35/2013-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--B11176C5-1CD3-486C-B212-7C0A7F080188/2013-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--144FBBD1-BB7A-4C02-8D9C-3B0363F2FE35/2013-fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall13/fa13k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--942248B2-59D2-4E64-B2B7-AB3EDF673B58/2013-fall-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    }
+   ]
+  },
+  {
+   "id": "2014-spring",
+   "label": "Spring 2014",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--A057692F-2270-4EC3-84F4-2E93D90A0243/2014-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--039599F9-9B8A-451B-B968-F6F5278E8683/2014-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--A057692F-2270-4EC3-84F4-2E93D90A0243/2014-spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp14/sp14k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--1F4F2358-E514-45B7-A13A-1E8EA1CB6DCF/2014-spring-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    },
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp14/SolutionsOfSpring2014.pdf",
+     "source": "Solutions by Leo Livshutz (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2014-fall",
+   "label": "Fall 2014",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--3FAE72E6-E0AB-42D3-9AAF-FA1BE2F793D9/2014-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--963839D5-E08F-462D-821A-030DF38D6B47/2014-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--3FAE72E6-E0AB-42D3-9AAF-FA1BE2F793D9/2014-fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall14/fa14k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--FAC0CF01-73DB-4E7E-BC88-61D9A66E14B0/2014-fall-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    }
+   ]
+  },
+  {
+   "id": "2015-spring",
+   "label": "Spring 2015",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--807EBCD8-2730-4358-A758-262845D00471/2015-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--E0B11396-9EE6-44C9-81A3-96A1086D9583/2015-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--807EBCD8-2730-4358-A758-262845D00471/2015-spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp15/sp15k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--C4E869ED-EB88-438C-AD88-14E5850DC46A/2015-spring-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    }
+   ]
+  },
+  {
+   "id": "2015-fall",
+   "label": "Fall 2015",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--012B30FD-5C0E-4EDC-B302-CF051E98F164/2015-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--75F77DF9-3F90-47FA-927E-4933F42F0862/2015-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--012B30FD-5C0E-4EDC-B302-CF051E98F164/2015-fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall15/fa15k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--D6E63E1B-D248-42DF-93D2-7CB7B2CF5AD6/2015-fall-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    }
+   ]
+  },
+  {
+   "id": "2016-spring",
+   "label": "Spring 2016",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--4925CCEA-E8E2-468E-98FF-7DB3D3E9991C/2016-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--59739D99-677C-407F-833E-14C09A87C252/2016-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--4925CCEA-E8E2-468E-98FF-7DB3D3E9991C/2016-spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp16/sp16k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--6BF6A102-DEA8-49E7-A2B5-F90F15D49D8D/2016-spring-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    }
+   ]
+  },
+  {
+   "id": "2016-fall",
+   "label": "Fall 2016",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--E288B7E3-76EA-4F8E-9CF8-3F39AE721648/2016-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--11932414-2B48-4F65-BBCE-EB2A2D6F81DA/2016-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--E288B7E3-76EA-4F8E-9CF8-3F39AE721648/2016-fall.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/fall16/fa16k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--C07E8CD1-BBE2-4D8F-A111-0BD9F9C380EB/2016-fall-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    }
+   ]
+  },
+  {
+   "id": "2017-spring",
+   "label": "Spring 2017",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--5292D344-C56D-4B2E-A7B0-1E679B5C8CF9/2017-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--58DAFD04-8C9B-49F6-A45F-153A654A4625/2017-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--5292D344-C56D-4B2E-A7B0-1E679B5C8CF9/2017-spring.pdf",
+   "alt_keys": [
+    "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp17/sp17k.pdf"
+   ],
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--8AED6287-8ED1-4C76-9180-FB65D9DE3FCA/2017-spring-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    },
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/exams/sp17/sp17s.pdf",
+     "source": "Solutions by Marta Hidegkuti (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2017-fall",
+   "label": "Fall 2017",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--3FC6EC4C-D0BA-452A-AF8A-D403073F492A/2017-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--0A70425D-4DC9-4B67-9D99-C814CC4840D6/2017-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--3FC6EC4C-D0BA-452A-AF8A-D403073F492A/2017-fall.pdf",
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--7A0D5EFE-A204-49F1-B778-1D490319805F/2017-fall-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    },
+    {
+     "url": "https://teaching.martahidegkuti.com/shared/AMATYC/fall2017/fa17s.pdf",
+     "source": "Solutions by Marta Hidegkuti (Truman College)"
+    }
+   ]
+  },
+  {
+   "id": "2018-spring",
+   "label": "Spring 2018",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://teaching.martahidegkuti.com/shared/AMATYC/spring2018/package1/SML%20RD2%20SP18%20Contest.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--E6EEDD08-7415-4ABA-A5AB-A096BB558D36/2018-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--FE8F881D-AFF9-4F2E-A90D-3F08F3F3CDEC/2018-spring.pdf",
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--247FADCF-6D99-481F-BF6D-1437C4002266/2018-spring-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    }
+   ]
+  },
+  {
+   "id": "2018-fall",
+   "label": "Fall 2018",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--720EDFCF-BA07-4A9B-8B3E-5F54FC284E73/2018-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--8C006A47-425F-41B5-B66C-16DFA62AEF09/2018-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--720EDFCF-BA07-4A9B-8B3E-5F54FC284E73/2018-fall.pdf",
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--A751DB47-3940-40AA-B195-A87A25A0E445/2018-fall-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    }
+   ]
+  },
+  {
+   "id": "2019-spring",
+   "label": "Spring 2019",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--17CD5452-1131-4FF1-BF1E-7B2FA9BFDCFD/2019-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--3EFB4426-08C8-48D8-A804-92C770AEABA1/2019-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--17CD5452-1131-4FF1-BF1E-7B2FA9BFDCFD/2019-spring.pdf",
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--A25A5620-FAED-4F67-9E6C-803B67C36968/2019-spring-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    }
+   ]
+  },
+  {
+   "id": "2019-fall",
+   "label": "Fall 2019",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--B1AC52A2-EA88-40EA-8153-3D7BE264EA06/2019-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--2C4DDC66-E101-41C1-9546-697B4DA23608/2019-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--B1AC52A2-EA88-40EA-8153-3D7BE264EA06/2019-fall.pdf",
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--C3C74A44-0503-4BEE-955F-6D75F9CD0BD2/2019-fall-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    }
+   ]
+  },
+  {
+   "id": "2020-spring",
+   "label": "Spring 2020",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--8E9F43CF-B9D0-4C8E-B6B0-CD6EE45F201B/2020-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--D7C2901F-ADD8-4ABF-8B8F-01461CA65FC3/2020-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--8E9F43CF-B9D0-4C8E-B6B0-CD6EE45F201B/2020-spring.pdf",
+   "solutions": [
+    {
+     "url": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--F1AE8359-0EAF-4751-93E8-2971C162B762/2020-spring-short-answers.pdf",
+     "source": "AMATYC official solutions"
+    }
+   ]
+  },
+  {
+   "id": "2021-fall",
+   "label": "Fall 2021",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--F86FA2A2-809B-4DF9-BE85-289D2A153B49/2021-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--BC553E22-8D27-445F-851A-2988A0FD498C/2021-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--F86FA2A2-809B-4DF9-BE85-289D2A153B49/2021-fall.pdf",
+   "solutions": []
+  },
+  {
+   "id": "2022-spring",
+   "label": "Spring 2022",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--8633B972-4331-43F1-B557-D48EC2DED120/2022-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--A139F125-F98C-44B4-8BE9-BBD21C90FC03/2022-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--8633B972-4331-43F1-B557-D48EC2DED120/2022-spring.pdf",
+   "solutions": []
+  },
+  {
+   "id": "2022-fall",
+   "label": "Fall 2022",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--AA0341F5-026A-4ECC-868E-F3FF164BC231/2022-fall.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--9C2FB0FF-B443-4325-859A-03E32488A377/2022-fall-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--AA0341F5-026A-4ECC-868E-F3FF164BC231/2022-fall.pdf",
+   "solutions": []
+  },
+  {
+   "id": "2023-spring",
+   "label": "Spring 2023",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--07B68EE7-30C4-4F22-BCB5-F95AAC8503BA/2023-spring.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--27B168A5-6D43-4192-BE8B-6CE54E2B5BFE/2023-spring-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--07B68EE7-30C4-4F22-BCB5-F95AAC8503BA/2023-spring.pdf",
+   "solutions": []
+  },
+  {
+   "id": "2023-fall",
+   "label": "Fall 2023",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--A1D9E7EF-5F77-41D4-BFD3-C7DE1FF02D48/sml-au23-final.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--69155B69-E88B-4410-B0E3-FB574D049046/au23-sml-answer-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--A1D9E7EF-5F77-41D4-BFD3-C7DE1FF02D48/sml-au23-final.pdf",
+   "solutions": []
+  },
+  {
+   "id": "2024-spring",
+   "label": "Spring 2024",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--7FA0177F-6574-4CA8-BE13-5F4C03915FA0/sml-sp24-final2.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--05BB310C-0E55-4DF9-AA54-5E6697CF01A8/sp24-sml-answer-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--7FA0177F-6574-4CA8-BE13-5F4C03915FA0/sml-sp24-final2.pdf",
+   "solutions": []
+  },
+  {
+   "id": "2024-fall",
+   "label": "Fall 2024",
+   "round": 1,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--E36E93CD-6D7F-4E47-8B98-E67607A2E587/sml-au24-final3.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--291BC3CA-2E91-4B67-B3F4-F92D1DFB5492/au24-sml-answer-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--E36E93CD-6D7F-4E47-8B98-E67607A2E587/sml-au24-final3.pdf",
+   "solutions": []
+  },
+  {
+   "id": "2025-spring",
+   "label": "Spring 2025",
+   "round": 2,
+   "source": "amatyc",
+   "files": {
+    "exam": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--B0AAEB19-8494-4955-99D6-199237BE8319/sml-sp25-final.pdf",
+    "key": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--25C0221F-4D65-458F-BA2C-711AE8429FA5/sp25-sml-answer-key.pdf"
+   },
+   "exam_link": "https://www.amatyc.org/files/B77BFB89-235F-4CC4-A875-9862D697AE67--B0AAEB19-8494-4955-99D6-199237BE8319/sml-sp25-final.pdf",
+   "solutions": []
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "algebra": "Algebra",
+  "polynomials": "Polynomials",
+  "functions": "Functions & Graphs",
+  "logarithms-exponents": "Exponents & Logarithms",
+  "sequences-series": "Sequences & Series",
+  "complex-numbers": "Complex Numbers",
+  "vectors-matrices": "Vectors, Matrices & Systems",
+  "number-theory": "Number Theory",
+  "combinatorics": "Combinatorics",
+  "probability": "Probability & Statistics",
+  "geometry": "Geometry",
+  "coordinate-geometry": "Coordinate Geometry",
+  "trigonometry": "Trigonometry",
+  "logic": "Logic & Puzzles",
+  "word-problems": "Word Problems & Rates"
+}
