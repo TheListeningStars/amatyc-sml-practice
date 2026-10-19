@@ -66,6 +66,7 @@ npm run build      # static site in app/dist — serve it with any web server
 
 ### Live site (GitHub Pages)
 
+Live at https://thelisteningstars.github.io/amatyc-sml-practice/ (the old `/amatyc-practice/` address redirects there).
 Every push to `main` builds `app/` and publishes it to GitHub Pages
 (`.github/workflows/pages.yml`). The problem bank in `app/public/` is committed, so after changing data run
 `python3 pipeline/build.py` locally and commit the result.
@@ -77,6 +78,6 @@ Or self-host with Docker:
 
 ```sh
 cd app
-docker build -t amatyc-practice .
-docker run -p 8080:80 amatyc-practice
+docker build -t amatyc-sml-practice .
+docker run -p 8080:80 amatyc-sml-practice
 ```

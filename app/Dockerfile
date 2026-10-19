@@ -1,5 +1,5 @@
 # Build the static site, then serve it with nginx.
-#   docker build -t amatyc-practice . && docker run -p 8080:80 amatyc-practice
+#   docker build -t amatyc-sml-practice . && docker run -p 8080:80 amatyc-sml-practice
 FROM node:22-alpine AS build
 WORKDIR /app
 COPY package.json package-lock.json ./
